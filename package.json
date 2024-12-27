@@ -7,9 +7,9 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@fontsource-variable/roboto-flex": "^5.1.0",
     "vite": "^2.0.0"
   },
-  "devDependencies": {},
   "keywords": [],
   "author": "",
   "license": "MIT"

@@ -67,7 +67,7 @@ def main():
                                         if(personalChild["name"]) == "AI":
                                             aiList = personalChild
                                             json_hierarchy_string = json.dumps(aiList.get('children', []), indent=2)
-                                            with open('ai_bookmarks.json', 'w') as file:
+                                            with open('public/ai_bookmarks.json', 'w') as file:
                                                 file.write(json_hierarchy_string)
                                             # print(json_hierarchy_string)
                                             # for aiChild in aiList["children"]:

@@ -1,3 +1,6 @@
+// Supports only weight 400
+import "@fontsource-variable/roboto-flex";
+
 async function loadBookmarks() {
   const response = await fetch("ai_bookmarks.json");
   const bookmarks = await response.json();
@@ -54,7 +57,8 @@ function createBookmarkElement(bookmark) {
   const link = document.createElement("a");
   link.href = bookmark.url;
   link.className = "bookmark-link";
-  link.textContent = bookmark.name + ", " + bookmark.id;
+  link.textContent = bookmark.name;
+  // link.textContent = bookmark.name + ", " + bookmark.id;
   link.target = "_blank";
   return link;
 }
