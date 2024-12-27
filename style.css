@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0px;
+  line-height: 1.6;
+  padding: 0;
+  background-color: #d0d2d5;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #333;
+}
+
+.vite-logo {
+  width: 100px;
+  height: auto;
+  margin-top: 20px;
+}
+
+#bookmarks-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+}
+
+#urls-section {
+  margin-left: 30px;
+}
+
+.folder {
+  margin-bottom: 10px;
+  background-color: #f0f2f5;
+}
+
+.folder-header {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.folder-name {
+  font-weight: bold;
+}
+
+.folder-content {
+  margin-left: 20px;
+  display: none;
+}
+
+.folder-content.expanded {
+  display: block;
+}
+
+.bookmark-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+#bookmarks-container .bookmark-grid {
+  margin-left: 10px;
+}
+
+#urls-section .bookmark-grid {
+  margin-left: 0px;
+}
+
+.bookmark-link {
+  text-decoration: none;
+  color: #333;
+}
+
+.bookmark-link:hover {
+  text-decoration: underline;
+}
+
+.expand-button {
+  width: 20px;
+  height: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background: none;
+  cursor: pointer;
+}

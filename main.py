@@ -70,19 +70,19 @@ def main():
                                             with open('ai_bookmarks.json', 'w') as file:
                                                 file.write(json_hierarchy_string)
                                             # print(json_hierarchy_string)
-                                            for aiChild in aiList["children"]:
-                                                variable_type = aiChild.get('type', 'No Type')
-                                                is_Array = isinstance(aiChild.get('children', []), list)
-                                                children_Count = len(aiChild.get('children', []))
-                                                if(variable_type == "url"):
-                                                    url_list.append(aiChild["url"])
-                                                    # print(f"{aiChild['name']} - {aiChild['url']} - {variable_type}")
-                                                if(variable_type == "folder"):
-                                                    # print(f"{aiChild['name']} - Count: {children_Count} - {variable_type}")
-                                                    for folderChildren in aiChild["children"]:
-                                                        print(f"  - {folderChildren['name']} - {folderChildren['url']} - {folderChildren.get('type', 'No Type')}")  
+                                            # for aiChild in aiList["children"]:
+                                            #     variable_type = aiChild.get('type', 'No Type')
+                                            #     is_Array = isinstance(aiChild.get('children', []), list)
+                                            #     children_Count = len(aiChild.get('children', []))
+                                            #     if(variable_type == "url"):
+                                            #         url_list.append(aiChild["url"])
+                                            #         print(f"{aiChild['name']} - {aiChild['url']} - {variable_type}")
+                                            #     if(variable_type == "folder"):
+                                            #         print(f"{aiChild['name']} - Count: {children_Count} - {variable_type}")
+                                            #         for folderChildren in aiChild["children"]:
+                                            #             print(f"  - {folderChildren['name']} - {folderChildren['url']} - {folderChildren.get('type', 'No Type')}")  
                                             
-                                    print(url_list)
+                                    # print(url_list)
                                     with open('bookmarks.txt', 'w') as file:
                                         for url in url_list:
                                             file.write(f"{url}\n")
