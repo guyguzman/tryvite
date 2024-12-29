@@ -34,7 +34,7 @@
     ],
     "date_added": "13378963819060079",
     "date_last_used": "0",
-    "date_modified": "13379750551128507",
+    "date_modified": "13379827797193451",
     "guid": "2e794ae1-2384-4148-a144-de149d3c2eca",
     "id": "8008",
     "name": "Access Portals",
@@ -43,6 +43,36 @@
   },
   {
     "children": [
+      {
+        "date_added": "13378263788915461",
+        "date_last_used": "0",
+        "guid": "2f11df33-2420-4e25-ac8a-bac4ede52dd0",
+        "id": "7967",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Lindy.ai \u2014 Meet Your AI Assistant",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.lindy.ai/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13379889353477668",
+        "date_last_used": "0",
+        "guid": "6ed4071a-c720-4343-bf56-bad177bbe60c",
+        "id": "8054",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Voiceflow | Build and Deploy AI Customer Experiences",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.voiceflow.com/",
+        "visit_count": 1
+      },
       {
         "date_added": "13378623117010598",
         "date_last_used": "0",
@@ -57,11 +87,26 @@
         "type": "url",
         "url": "https://docs.copilotkit.ai/coagents/tutorials/ai-travel-app?utm_source=socials&utm_medium=twitter&utm_campaign=coagent-release&s=09",
         "visit_count": 1
+      },
+      {
+        "date_added": "13379764291291786",
+        "date_last_used": "0",
+        "guid": "525899cf-b804-45b9-92a2-64ac8242f944",
+        "id": "8044",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "agent.ai | The Professional Network for AI Agents",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://agent.ai/",
+        "visit_count": 1
       }
     ],
     "date_added": "13378966239820299",
     "date_last_used": "0",
-    "date_modified": "13378966252324320",
+    "date_modified": "13379933166838688",
     "guid": "d977bd91-ed8a-4248-89eb-48e53973d9e5",
     "id": "8011",
     "name": "Agents",
@@ -81,6 +126,36 @@
   },
   {
     "children": [
+      {
+        "date_added": "13377088247687864",
+        "date_last_used": "0",
+        "guid": "05bb1816-3664-4eb3-abac-e0be04d7c862",
+        "id": "7914",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "ElevenLabs | Text to Speech & AI Voice Generator",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://elevenlabs.io/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13378182610217921",
+        "date_last_used": "0",
+        "guid": "ab0a8f3b-00d5-4719-948b-fb48010b9bb9",
+        "id": "7958",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Hume AI | The foundational voice model for any interface",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.hume.ai/",
+        "visit_count": 1
+      },
       {
         "date_added": "13378386323640677",
         "date_last_used": "0",
@@ -104,11 +179,11 @@
         "meta_info": {
           "power_bookmark_meta": ""
         },
-        "name": "Suno",
+        "name": "Suno | Make a Song about Anything",
         "show_icon": false,
         "source": "sync",
         "type": "url",
-        "url": "https://suno.com/?s=09",
+        "url": "https://suno.com/",
         "visit_count": 1
       },
       {
@@ -144,7 +219,7 @@
     ],
     "date_added": "13378963303083673",
     "date_last_used": "0",
-    "date_modified": "13379751869983659",
+    "date_modified": "13379932963498463",
     "guid": "6961c632-e675-46a5-957b-2b2f1df5103b",
     "id": "8001",
     "name": "Audio",
@@ -164,6 +239,258 @@
   },
   {
     "children": [
+      {
+        "date_added": "13379931328994363",
+        "date_last_used": "0",
+        "guid": "8adec728-0efc-49d3-aac0-5b8e71fff3f6",
+        "id": "8060",
+        "name": "ChatGPT",
+        "show_icon": false,
+        "source": "user_copy",
+        "type": "url",
+        "url": "https://chatgpt.com/",
+        "visit_count": 0
+      },
+      {
+        "date_added": "13379931351094474",
+        "date_last_used": "0",
+        "guid": "2fba7d8c-b8e8-4913-9a9f-b66bc75e6d4b",
+        "id": "8061",
+        "name": "Claude",
+        "show_icon": false,
+        "source": "user_copy",
+        "type": "url",
+        "url": "https://claude.ai/login?returnTo=%2F%3F",
+        "visit_count": 0
+      },
+      {
+        "date_added": "13379827797193451",
+        "date_last_used": "0",
+        "guid": "9c8bf026-2f90-4ff5-9209-d3403a64be19",
+        "id": "8053",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "DeepSeek",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://chat.deepseek.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13379932260965406",
+        "date_last_used": "0",
+        "guid": "a70d9c5e-2e7f-449b-a985-3ff206124b54",
+        "id": "8064",
+        "name": "Perplexity",
+        "show_icon": false,
+        "source": "user_copy",
+        "type": "url",
+        "url": "https://www.perplexity.ai/",
+        "visit_count": 0
+      },
+      {
+        "date_added": "13377231561251611",
+        "date_last_used": "0",
+        "guid": "ed13c4bf-a988-41a9-8c2a-eeb53ed2fcdb",
+        "id": "7922",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Spellbook Legal - AI for the Legal Profession",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.spellbook.legal/",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13379930785289052",
+    "date_last_used": "0",
+    "date_modified": "13379932260965406",
+    "guid": "6baf8a9c-7875-45b7-84ed-8a96e46b7443",
+    "id": "8055",
+    "name": "Chat",
+    "source": "extension",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13378000688532740",
+        "date_last_used": "0",
+        "guid": "d34472ed-a1f0-4eec-a806-fb53f4ec5e09",
+        "id": "7953",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "how-to-finetune-paligemma2-for-json-data-extraction.ipynb - Colab",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-finetune-paligemma2-for-json-data-extraction.ipynb?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13379306767351235",
+        "date_last_used": "0",
+        "guid": "3a96cbec-e719-42a7-a3c7-b25be41ba271",
+        "id": "8028",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Transform Unstructured Data into AI ready Assets",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://undatas.io/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13378967571612786",
+        "date_last_used": "0",
+        "guid": "3bfc7be5-9b0d-44e9-b65e-5c3317f5cdfd",
+        "id": "8013",
+        "name": "GitHub - microsoft/markitdown: Python tool for converting files and office documents to Markdown.",
+        "show_icon": false,
+        "source": "user_copy",
+        "type": "url",
+        "url": "https://github.com/microsoft/markitdown",
+        "visit_count": 0
+      }
+    ],
+    "date_added": "13379932558128052",
+    "date_last_used": "0",
+    "date_modified": "13379932601842117",
+    "guid": "192314b8-d010-45e5-82d2-338f76306f8f",
+    "id": "8066",
+    "name": "Data",
+    "source": "extension",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13378384889845761",
+        "date_last_used": "0",
+        "guid": "58eced5f-099f-4f43-82c6-ecb58591d9b6",
+        "id": "7966",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Fireworks - Fastest Inference for Generative AI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://fireworks.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13377988345545838",
+        "date_last_used": "0",
+        "guid": "41316f93-e104-4677-83d2-4471ad9d9a4f",
+        "id": "7952",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Browserbase: A web browser for AI agents & applications",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.browserbase.com/#pricing",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13378546023060580",
+        "date_last_used": "0",
+        "guid": "286e7f42-4300-454c-ba2b-865f22ad1608",
+        "id": "7977",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Devin",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://devin.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13378376285565380",
+        "date_last_used": "0",
+        "guid": "664898a1-8a89-4c9c-8ef2-111a59e20111",
+        "id": "7963",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Cognition",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://cognition.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13379734441316323",
+        "date_last_used": "0",
+        "guid": "5b381be7-fdb6-4bb7-acaf-457a50cbe3cd",
+        "id": "8041",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Remotion | Make videos programmatically",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.remotion.dev/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13379767625931301",
+        "date_last_used": "0",
+        "guid": "ed71b4ea-084b-4085-978c-e1819543c49c",
+        "id": "8051",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "TensorFlow",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.tensorflow.org/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13376713953376482",
+        "date_last_used": "0",
+        "guid": "c2247861-a157-4ec7-a5e7-ef93635c0198",
+        "id": "7855",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "AgentQL | Connects LLMs and AI agents to the entire web",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.agentql.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13379734275996932",
+        "date_last_used": "0",
+        "guid": "3b842c1b-2bd0-4deb-942e-3ab7436823fe",
+        "id": "8042",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Overview - Chainlit",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://docs.chainlit.io/get-started/overview",
+        "visit_count": 1
+      },
       {
         "date_added": "13376713296061960",
         "date_last_used": "0",
@@ -283,11 +610,23 @@
         "type": "url",
         "url": "https://huggingface.co/spaces",
         "visit_count": 1
+      },
+      {
+        "date_added": "13379932781035383",
+        "date_last_used": "0",
+        "guid": "cc1fd79b-2201-4b65-8a49-ab38512ee491",
+        "id": "8067",
+        "name": "Chainlit",
+        "show_icon": false,
+        "source": "user_copy",
+        "type": "url",
+        "url": "https://chainlit.io/",
+        "visit_count": 0
       }
     ],
     "date_added": "13378963570179737",
     "date_last_used": "0",
-    "date_modified": "13379751822423897",
+    "date_modified": "13379933655942391",
     "guid": "f1e5237e-a6cd-4414-bdc3-b83a950a13c6",
     "id": "8007",
     "name": "Development",
@@ -312,66 +651,6 @@
         "visit_count": 1
       },
       {
-        "date_added": "13378992796416493",
-        "date_last_used": "0",
-        "guid": "0cb5391b-c041-4af3-9450-298f60248c23",
-        "id": "8020",
-        "meta_info": {
-          "power_bookmark_meta": ""
-        },
-        "name": "Gemini",
-        "show_icon": false,
-        "source": "sync",
-        "type": "url",
-        "url": "https://gemini.google.com/app",
-        "visit_count": 1
-      },
-      {
-        "date_added": "13378631234427595",
-        "date_last_used": "0",
-        "guid": "2f9952cc-d8c7-4fd3-956f-d1e03ee85982",
-        "id": "7988",
-        "meta_info": {
-          "power_bookmark_meta": ""
-        },
-        "name": "Gemini - Multimodal Live API - Web console",
-        "show_icon": false,
-        "source": "sync",
-        "type": "url",
-        "url": "https://github.com/google-gemini/multimodal-live-api-web-console",
-        "visit_count": 1
-      },
-      {
-        "date_added": "13378546424858708",
-        "date_last_used": "0",
-        "guid": "dc61da96-7190-41d1-bf9f-7d022ef0d855",
-        "id": "7979",
-        "meta_info": {
-          "power_bookmark_meta": ""
-        },
-        "name": "Gemini Advanced - get access to Google\u2019s most capable AI models",
-        "show_icon": false,
-        "source": "sync",
-        "type": "url",
-        "url": "https://gemini.google/advanced/?hl=en",
-        "visit_count": 1
-      },
-      {
-        "date_added": "13378909165561698",
-        "date_last_used": "0",
-        "guid": "977f8e6f-4561-42ae-a16f-f28a125e676b",
-        "id": "7995",
-        "meta_info": {
-          "power_bookmark_meta": ""
-        },
-        "name": "Gemini API: Getting started with Gemini 2.0",
-        "show_icon": false,
-        "source": "sync",
-        "type": "url",
-        "url": "https://github.com/google-gemini/cookbook/blob/main/gemini-2%2Fget_started.ipynb",
-        "visit_count": 1
-      },
-      {
         "date_added": "13378444427386267",
         "date_last_used": "0",
         "guid": "af254136-d285-49e4-8dc6-106147653bbd",
@@ -384,6 +663,81 @@
         "source": "sync",
         "type": "url",
         "url": "https://deepmind.google/technologies/gemini/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13379734609771024",
+        "date_last_used": "0",
+        "guid": "fdd37b93-a0e8-4290-90f0-77a526ea5cca",
+        "id": "8043",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Google | 2D spatial understanding with Gemini 2.0",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/google-gemini/cookbook/blob/main/gemini-2%2Fspatial_understanding.ipynb",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13378909165561698",
+        "date_last_used": "0",
+        "guid": "977f8e6f-4561-42ae-a16f-f28a125e676b",
+        "id": "7995",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Google | Gemini API: Getting started with Gemini 2.0",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/google-gemini/cookbook/blob/main/gemini-2%2Fget_started.ipynb",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13379201010673102",
+        "date_last_used": "0",
+        "guid": "fa92de5c-de18-480c-a0b8-fc0119a55e58",
+        "id": "8027",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Google | ImageFX",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://labs.google/fx/tools/image-fx",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13377214688518446",
+        "date_last_used": "13377238958135276",
+        "guid": "ec5c4a1f-4f93-463b-bdaf-fa22772fae56",
+        "id": "7924",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Google | NotebookLM",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://notebooklm.google.com/",
+        "visit_count": 2
+      },
+      {
+        "date_added": "13379200977233444",
+        "date_last_used": "0",
+        "guid": "18637366-d69a-4723-8e41-0c3973c5964d",
+        "id": "8026",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Google | VideoFX",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://labs.google/fx/tools/video-fx",
         "visit_count": 1
       },
       {
@@ -402,6 +756,21 @@
         "visit_count": 1
       },
       {
+        "date_added": "13378443118055333",
+        "date_last_used": "13378775616896215",
+        "guid": "1ece478b-2d9a-4b3f-87b8-07c76b8956cf",
+        "id": "7971",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Google AI Studio | Stream Realtime",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://aistudio.google.com/live",
+        "visit_count": 3
+      },
+      {
         "date_added": "13378546194248946",
         "date_last_used": "0",
         "guid": "e9f94fb3-3910-4026-823e-5735707ca7d0",
@@ -414,6 +783,36 @@
         "source": "sync",
         "type": "url",
         "url": "https://colab.research.google.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13378992796416493",
+        "date_last_used": "0",
+        "guid": "0cb5391b-c041-4af3-9450-298f60248c23",
+        "id": "8020",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Google Gemini",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://gemini.google.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13378631234427595",
+        "date_last_used": "0",
+        "guid": "2f9952cc-d8c7-4fd3-956f-d1e03ee85982",
+        "id": "7988",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Google Gemini - Multimodal Live API - Web console",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/google-gemini/multimodal-live-api-web-console",
         "visit_count": 1
       },
       {
@@ -432,6 +831,21 @@
         "visit_count": 1
       },
       {
+        "date_added": "13379767066038984",
+        "date_last_used": "0",
+        "guid": "8b429600-f6d5-456d-b8d0-2192ec058329",
+        "id": "8045",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Google Labs",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://labs.google/",
+        "visit_count": 1
+      },
+      {
         "date_added": "13378870099465551",
         "date_last_used": "0",
         "guid": "4bbb1d1e-2098-4563-872e-4e14e43d7d76",
@@ -443,7 +857,7 @@
         "show_icon": false,
         "source": "sync",
         "type": "url",
-        "url": "https://labs.google/fx/tools/video-fx?s=09",
+        "url": "https://labs.google/fx",
         "visit_count": 1
       },
       {
@@ -462,66 +876,6 @@
         "visit_count": 1
       },
       {
-        "date_added": "13379201010673102",
-        "date_last_used": "0",
-        "guid": "fa92de5c-de18-480c-a0b8-fc0119a55e58",
-        "id": "8027",
-        "meta_info": {
-          "power_bookmark_meta": ""
-        },
-        "name": "ImageFX",
-        "show_icon": false,
-        "source": "sync",
-        "type": "url",
-        "url": "https://labs.google/fx/tools/image-fx",
-        "visit_count": 1
-      },
-      {
-        "date_added": "13377214688518446",
-        "date_last_used": "13377238958135276",
-        "guid": "ec5c4a1f-4f93-463b-bdaf-fa22772fae56",
-        "id": "7924",
-        "meta_info": {
-          "power_bookmark_meta": ""
-        },
-        "name": "NotebookLM",
-        "show_icon": false,
-        "source": "sync",
-        "type": "url",
-        "url": "https://notebooklm.google.com/?_gl=1*1j34etu*_ga*OTk0MDM1NDIxLjE3MzI3NDEwMzk.*_ga_W0LDH41ZCB*MTczMjc0MTAzOC4xLjEuMTczMjc0MTA1NC40NC4wLjA.&original_referer=https:%2F%2Fnotebooklm.google%23&pli=1",
-        "visit_count": 2
-      },
-      {
-        "date_added": "13378515768022215",
-        "date_last_used": "0",
-        "guid": "6f0af271-15c7-488e-9ec3-cd93bd97ba0f",
-        "id": "7975",
-        "meta_info": {
-          "power_bookmark_meta": ""
-        },
-        "name": "Stream Realtime | Google AI Studio",
-        "show_icon": false,
-        "source": "sync",
-        "type": "url",
-        "url": "https://aistudio.google.com/app/live",
-        "visit_count": 1
-      },
-      {
-        "date_added": "13378443118055333",
-        "date_last_used": "13378775616896215",
-        "guid": "1ece478b-2d9a-4b3f-87b8-07c76b8956cf",
-        "id": "7971",
-        "meta_info": {
-          "power_bookmark_meta": ""
-        },
-        "name": "Stream Realtime | Google AI Studio",
-        "show_icon": false,
-        "source": "sync",
-        "type": "url",
-        "url": "https://aistudio.google.com/live",
-        "visit_count": 3
-      },
-      {
         "date_added": "13379001360557386",
         "date_last_used": "0",
         "guid": "07158717-ad43-49d3-a64b-51c6a60b4191",
@@ -535,26 +889,11 @@
         "type": "url",
         "url": "https://console.cloud.google.com/vertex-ai/studio?hl=en&pli=1&project=mmpgeo-149501",
         "visit_count": 1
-      },
-      {
-        "date_added": "13379200977233444",
-        "date_last_used": "0",
-        "guid": "18637366-d69a-4723-8e41-0c3973c5964d",
-        "id": "8026",
-        "meta_info": {
-          "power_bookmark_meta": ""
-        },
-        "name": "VideoFX",
-        "show_icon": false,
-        "source": "sync",
-        "type": "url",
-        "url": "https://labs.google/fx/tools/video-fx",
-        "visit_count": 1
       }
     ],
     "date_added": "13378963268404328",
     "date_last_used": "0",
-    "date_modified": "13379751893544051",
+    "date_modified": "13379931492107539",
     "guid": "31b7be0b-b6fb-4c68-aeb3-5107795250fb",
     "id": "7998",
     "name": "Google",
@@ -690,6 +1029,117 @@
   {
     "children": [
       {
+        "date_added": "13376705023612201",
+        "date_last_used": "0",
+        "guid": "d06f62d1-b72c-464c-b487-27afbd101cd7",
+        "id": "7852",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Chatbot Arena - Free AI Chat to Compare & Test Best AI Chatbots",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://lmarena.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13379123269550108",
+        "date_last_used": "0",
+        "guid": "9b652b01-0b56-4cd6-a668-d16d6174ccbf",
+        "id": "8024",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Genesis \u2014 Genesis 0.2.0 documentation",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://genesis-world.readthedocs.io/en/latest",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13378791897385157",
+        "date_last_used": "0",
+        "guid": "94ccf578-83fc-4558-8cfc-541d1757b1d9",
+        "id": "7991",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "MinT",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://mint-video.github.io/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13379933393118953",
+        "date_last_used": "0",
+        "guid": "b011345d-0bfa-4401-97f9-25a9a02d1019",
+        "id": "8070",
+        "name": "OpenAI Build Hour: Fine-Tuning",
+        "show_icon": false,
+        "source": "user_copy",
+        "type": "url",
+        "url": "https://events.openai.com/openaibuildhourfinetuning",
+        "visit_count": 0
+      },
+      {
+        "date_added": "13378638874526399",
+        "date_last_used": "0",
+        "guid": "9392eb9e-d675-478f-a42d-764d70d443a2",
+        "id": "7989",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "OpenAI Build Hour: On-Demand Library on Vimeo",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://vimeo.com/showcase/openaibuildhours",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13379933323031056",
+        "date_last_used": "0",
+        "guid": "e431ee7b-a32b-499c-8f77-43b76c837a34",
+        "id": "8069",
+        "name": "OpenAI\u2019s Videos on Vimeo",
+        "show_icon": false,
+        "source": "user_copy",
+        "type": "url",
+        "url": "https://vimeo.com/openai/videos",
+        "visit_count": 0
+      },
+      {
+        "date_added": "13378010442150324",
+        "date_last_used": "0",
+        "guid": "ca081a87-1dea-4cbd-8e4d-f651cc3483d7",
+        "id": "7955",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Reinforcement Fine-Tuning Research Program | OpenAI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://openai.com/form/rft-research-program/",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13379932339895720",
+    "date_last_used": "0",
+    "date_modified": "13379933493551417",
+    "guid": "d8633a05-103d-49c6-8d1f-c8ee64bad1e7",
+    "id": "8065",
+    "name": "Learning",
+    "source": "extension",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
         "date_added": "13378552823070319",
         "date_last_used": "0",
         "guid": "90a59649-e6d2-4bfc-92e6-b59613c97b8d",
@@ -697,7 +1147,7 @@
         "meta_info": {
           "power_bookmark_meta": ""
         },
-        "name": "Shubhamsaboo/awesome-llm-apps: Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+        "name": "Shubhamsaboo | Collection of awesome LLM apps with RAG",
         "show_icon": false,
         "source": "sync",
         "type": "url",
@@ -742,20 +1192,7 @@
     "type": "folder"
   },
   {
-    "children": [
-      {
-        "date_added": "13378967571612786",
-        "date_last_used": "0",
-        "guid": "3bfc7be5-9b0d-44e9-b65e-5c3317f5cdfd",
-        "id": "8013",
-        "name": "GitHub - microsoft/markitdown: Python tool for converting files and office documents to Markdown.",
-        "show_icon": false,
-        "source": "user_copy",
-        "type": "url",
-        "url": "https://github.com/microsoft/markitdown",
-        "visit_count": 0
-      }
-    ],
+    "children": [],
     "date_added": "13378966006244259",
     "date_last_used": "0",
     "date_modified": "13378967571612786",
@@ -768,11 +1205,248 @@
   {
     "children": [
       {
+        "date_added": "13377419874713811",
+        "date_last_used": "0",
+        "guid": "10e8bda1-c9b9-4d51-916b-9ccb4c09ed18",
+        "id": "7940",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Fooocus AI Online - AI Image Generator For Free",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://fooocus.one/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13378561333981595",
+        "date_last_used": "0",
+        "guid": "ce2d62ab-70c8-454d-94df-bc0c6ee6cb83",
+        "id": "7985",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "ComfyUI | Generate video, images, audio with AI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.comfy.org/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13379066679446578",
+        "date_last_used": "0",
+        "guid": "7b787991-33f6-42ed-9188-b59828e5b2e1",
+        "id": "8022",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "AI Image Generator - Create Art, Images & Video | Leonardo AI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://leonardo.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13378392807832742",
+        "date_last_used": "0",
+        "guid": "e29871e4-439a-4bba-ba20-e0e1d3776307",
+        "id": "7965",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "AI Video Generator: Create Realistic/Imaginary HD Videos | Pollo AI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://pollo.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13377132451450668",
+        "date_last_used": "0",
+        "guid": "53d01a69-5341-41a7-8ad4-80e86915cd1b",
+        "id": "7919",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "AI Video Composer - a Hugging Face Space by huggingface-projects",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/spaces/huggingface-projects/ai-video-composer?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13377417966026485",
+        "date_last_used": "0",
+        "guid": "bd1631b8-c797-4ddb-b627-7f22a8dd10b8",
+        "id": "7939",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "FREE online image generator and model hosting site! | Tensor.Art",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://tensor.art/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13378789841779720",
+        "date_last_used": "0",
+        "guid": "d6a43f7f-ea51-4c0d-ac3d-9bf4e06efef1",
+        "id": "7992",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Rexan Wong | Yoooo I'm Rexan, a 17-year-old high schooler & entrepreneur from Hong Kong who can build blockchain, iOS, and full-stack web apps.",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.rexanwong.xyz/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13379054015617621",
+        "date_last_used": "0",
+        "guid": "011ee101-dbdd-49c7-a00f-0568a80548c6",
+        "id": "8023",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Odyssey",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://odyssey.systems/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13376713260060969",
+        "date_last_used": "0",
+        "guid": "8b2328f3-687e-4732-94d7-17fec66cc2cb",
+        "id": "7851",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Presentations and Slide Decks with AI | Gamma",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://gamma.app/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13379767385453666",
+        "date_last_used": "0",
+        "guid": "ebeb2819-3821-48f9-bd89-7331a32f0601",
+        "id": "8049",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "AI21 Labs | Reliable Generative AI for the Enterprise",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.ai21.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13378563815225520",
+        "date_last_used": "0",
+        "guid": "d7887959-43f5-4a31-b547-af557cc294b7",
+        "id": "7986",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Infinite AI Artboard - Recraft",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.recraft.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13377336598222532",
+        "date_last_used": "0",
+        "guid": "eb1673c6-55d5-40af-834c-b99062e72982",
+        "id": "7936",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Tripo AI - Create Your First 3D Model with Text and Image in Seconds",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.tripo3d.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13378432517632157",
+        "date_last_used": "0",
+        "guid": "a22ba211-1d94-4180-8a73-8e84a83bdd03",
+        "id": "7969",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "blendergpt.org",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.blendergpt.org/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13378527628279663",
+        "date_last_used": "0",
+        "guid": "2e42f00f-dd06-430f-99e5-7675828bddf6",
+        "id": "7976",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Accelerate the Development of AI Applications | Scale AI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://scale.com/",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13379932099728088",
+    "date_last_used": "0",
+    "date_modified": "13379933668873446",
+    "guid": "b1dc0f51-b1fe-4908-b132-a1fb5c1ef7b1",
+    "id": "8063",
+    "name": "Misc",
+    "source": "extension",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13378552854103672",
+        "date_last_used": "0",
+        "guid": "26d0e010-cae4-40a9-a5ac-d4cfe3fa626e",
+        "id": "7981",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "unwind ai | Latest AI news, tools and tutorials for AI Developers",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.theunwindai.com/?s=09",
+        "visit_count": 1
+      },
+      {
         "date_added": "13378452967660769",
         "date_last_used": "0",
         "guid": "851d3f95-5152-4968-a618-ee67eb67ec87",
         "id": "7974",
-        "name": "AI Insights",
+        "name": "AI Insights | Top AI news, tools, trends and tutorials",
         "show_icon": false,
         "source": "user_copy",
         "type": "url",
@@ -787,7 +1461,7 @@
         "meta_info": {
           "power_bookmark_meta": ""
         },
-        "name": "Shadcn",
+        "name": "Shadcn | Newsletter about design, coding",
         "show_icon": false,
         "source": "sync",
         "type": "url",
@@ -817,7 +1491,7 @@
         "meta_info": {
           "power_bookmark_meta": ""
         },
-        "name": "The Rundown AI",
+        "name": "The Rundown AI | The latest AI news",
         "show_icon": false,
         "source": "sync",
         "type": "url",
@@ -827,7 +1501,7 @@
     ],
     "date_added": "13378966209804779",
     "date_last_used": "0",
-    "date_modified": "13379751792599839",
+    "date_modified": "13379930607172021",
     "guid": "308e64d8-ee67-45a8-8b02-0fade7573d72",
     "id": "8010",
     "name": "Newsletters",
@@ -864,6 +1538,21 @@
   {
     "children": [
       {
+        "date_added": "13375960704988479",
+        "date_last_used": "0",
+        "guid": "c33a2c29-a839-4a17-ac37-30d58090e1bb",
+        "id": "7844",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "ChatGPT Prompt Engineering for Developers - DeepLearning.AI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+        "visit_count": 1
+      },
+      {
         "date_added": "13378260089234497",
         "date_last_used": "0",
         "guid": "521efe48-63de-4ffd-942e-f3cffe031412",
@@ -879,28 +1568,70 @@
         "visit_count": 1
       },
       {
-        "date_added": "13375960704988479",
+        "date_added": "13379767202932505",
         "date_last_used": "0",
-        "guid": "c33a2c29-a839-4a17-ac37-30d58090e1bb",
-        "id": "7844",
+        "guid": "10404227-4ea7-4191-976d-de4f57f8c944",
+        "id": "8046",
         "meta_info": {
           "power_bookmark_meta": ""
         },
-        "name": "ChatGPT Prompt Engineering for Developers - DeepLearning.AI",
+        "name": "Overview - OpenAI API",
         "show_icon": false,
         "source": "sync",
         "type": "url",
-        "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/",
+        "url": "https://platform.openai.com/docs/overview",
         "visit_count": 1
       }
     ],
     "date_added": "13378963278180084",
     "date_last_used": "0",
-    "date_modified": "13378966132125995",
+    "date_modified": "13379930824622019",
     "guid": "1dca958a-2643-4ded-ba85-e4aa1acd95c8",
     "id": "7999",
     "name": "OpenAI",
     "source": "extension",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13379767322665543",
+        "date_last_used": "0",
+        "guid": "9a6447e6-5d0a-43db-9908-a51078ce75e2",
+        "id": "8048",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "The World's Leading AI Platform for Enterprise | Cohere",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://cohere.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13379767556535656",
+        "date_last_used": "0",
+        "guid": "70702226-085e-4d96-a0ca-d90f6205ccaf",
+        "id": "8050",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "PyTorch Playground | Aditya Rana Blog",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://adityassrana.github.io/blog/tutorials/2020/04/22/PyTorch-Playground.html",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13379767314081273",
+    "date_last_used": "0",
+    "date_modified": "13379767556535656",
+    "guid": "2fe9f690-87b3-4549-ac38-6c7bb61ca490",
+    "id": "8047",
+    "name": "Playground",
+    "source": "unknown",
     "type": "folder"
   },
   {
@@ -989,33 +1720,84 @@
   {
     "children": [
       {
-        "date_added": "13377419908692482",
+        "date_added": "13379931238262102",
         "date_last_used": "0",
-        "guid": "a7bc2ce6-31c7-447f-8b40-476591d5acf0",
-        "id": "7941",
+        "guid": "8c46af67-29ff-41f5-8e4b-a32ad62be1f2",
+        "id": "8059",
+        "name": "MiniMax AI Video Generation and Creation Community for Visionaries",
+        "show_icon": false,
+        "source": "user_copy",
+        "type": "url",
+        "url": "https://www.minimaxai.co/",
+        "visit_count": 0
+      }
+    ],
+    "date_added": "13379931189041295",
+    "date_last_used": "0",
+    "date_modified": "13379931238262102",
+    "guid": "a87efddd-faa8-425d-a585-296be1280f35",
+    "id": "8058",
+    "name": "Showcase",
+    "source": "extension",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13377747643835281",
+        "date_last_used": "0",
+        "guid": "26c812f0-31ab-4d38-a485-76ace4405271",
+        "id": "7950",
         "meta_info": {
           "power_bookmark_meta": ""
         },
-        "name": "Talking Photo AI | Generate Talking Photo",
+        "name": "Topaz Labs | Professional-grade photo and video editing powered by AI.",
         "show_icon": false,
         "source": "sync",
         "type": "url",
-        "url": "https://www.vidnoz.com/talking-head.html?insur=en_yt_brainprojectx2",
+        "url": "https://www.topazlabs.com/",
         "visit_count": 1
       },
       {
-        "date_added": "13377176286424121",
+        "date_added": "13377056283982990",
         "date_last_used": "0",
-        "guid": "b946bd9a-1782-4852-b799-1f6c43f60fd3",
-        "id": "7921",
+        "guid": "bdead0a8-5adf-4b37-ae1f-11b8b50558e2",
+        "id": "7866",
         "meta_info": {
           "power_bookmark_meta": ""
         },
-        "name": "Best AI Video Generator - Start Creating FREE AI Videos Now",
+        "name": "Magnific AI \u2014 The magic image Upscaler & Enhancer",
         "show_icon": false,
         "source": "sync",
         "type": "url",
-        "url": "https://www.synthesia.io/",
+        "url": "https://magnific.ai/",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13379932925704584",
+    "date_last_used": "0",
+    "date_modified": "13379933038464063",
+    "guid": "60fc2e19-c1b3-4055-bff4-13e4522aa0c3",
+    "id": "8068",
+    "name": "Tools",
+    "source": "extension",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13379618253568105",
+        "date_last_used": "0",
+        "guid": "055fe626-820b-4f10-b0a7-8b0a8d1cd936",
+        "id": "8031",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Digital Twin APIs",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.tavus.io/",
         "visit_count": 1
       },
       {
@@ -1169,6 +1951,48 @@
         "visit_count": 1
       },
       {
+        "date_added": "13379930869679166",
+        "date_last_used": "0",
+        "guid": "2865aa5d-39e9-4008-92f4-a0b6a602fb87",
+        "id": "8056",
+        "name": "Sora | OpenAI",
+        "show_icon": false,
+        "source": "user_copy",
+        "type": "url",
+        "url": "https://openai.com/sora/",
+        "visit_count": 0
+      },
+      {
+        "date_added": "13377176286424121",
+        "date_last_used": "0",
+        "guid": "b946bd9a-1782-4852-b799-1f6c43f60fd3",
+        "id": "7921",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Synthesia",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.synthesia.io/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13377419908692482",
+        "date_last_used": "0",
+        "guid": "a7bc2ce6-31c7-447f-8b40-476591d5acf0",
+        "id": "7941",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Vidnoz | AI Videos",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.vidnoz.com/",
+        "visit_count": 1
+      },
+      {
         "date_added": "13378352806855361",
         "date_last_used": "0",
         "guid": "c0728bcb-3564-441f-97bf-e2707412f484",
@@ -1197,555 +2021,27 @@
         "type": "url",
         "url": "https://www.visla.us/",
         "visit_count": 1
+      },
+      {
+        "date_added": "13379930961974826",
+        "date_last_used": "0",
+        "guid": "09396d54-246a-4e21-bb4d-7f41f98d2876",
+        "id": "8057",
+        "name": "Veo | Google",
+        "show_icon": false,
+        "source": "user_copy",
+        "type": "url",
+        "url": "https://labs.google/fx/tools/video-fx",
+        "visit_count": 0
       }
     ],
     "date_added": "13378963381811640",
     "date_last_used": "0",
-    "date_modified": "13379752623278639",
+    "date_modified": "13379932444370196",
     "guid": "ad60e53a-7d18-48f5-9406-5c3b35522699",
     "id": "8002",
     "name": "Video Generation",
     "source": "extension",
     "type": "folder"
-  },
-  {
-    "date_added": "13378527628279663",
-    "date_last_used": "0",
-    "guid": "2e42f00f-dd06-430f-99e5-7675828bddf6",
-    "id": "7976",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Accelerate the Development of AI Applications | Scale AI",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://scale.com/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13376713953376482",
-    "date_last_used": "0",
-    "guid": "c2247861-a157-4ec7-a5e7-ef93635c0198",
-    "id": "7855",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "AgentQL | Connects LLMs and AI agents to the entire web",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://www.agentql.com/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13379066679446578",
-    "date_last_used": "0",
-    "guid": "7b787991-33f6-42ed-9188-b59828e5b2e1",
-    "id": "8022",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "AI Image Generator - Create Art, Images & Video | Leonardo AI",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://leonardo.ai/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13377132451450668",
-    "date_last_used": "0",
-    "guid": "53d01a69-5341-41a7-8ad4-80e86915cd1b",
-    "id": "7919",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "AI Video Composer - a Hugging Face Space by huggingface-projects",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://huggingface.co/spaces/huggingface-projects/ai-video-composer?s=09",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13378392807832742",
-    "date_last_used": "0",
-    "guid": "e29871e4-439a-4bba-ba20-e0e1d3776307",
-    "id": "7965",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "AI Video Generator: Create Realistic/Imaginary HD Videos | Pollo AI",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://pollo.ai/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13377071709093425",
-    "date_last_used": "0",
-    "guid": "8e96020c-0072-4de5-a064-12487f2663ca",
-    "id": "7913",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Best AI Video Generator - Start Creating FREE AI Videos Now",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://www.synthesia.io/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13378432517632157",
-    "date_last_used": "0",
-    "guid": "a22ba211-1d94-4180-8a73-8e84a83bdd03",
-    "id": "7969",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "blendergpt.org",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://www.blendergpt.org/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13377988345545838",
-    "date_last_used": "0",
-    "guid": "41316f93-e104-4677-83d2-4471ad9d9a4f",
-    "id": "7952",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Browserbase: A web browser for AI agents & applications",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://www.browserbase.com/#pricing",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13376705023612201",
-    "date_last_used": "0",
-    "guid": "d06f62d1-b72c-464c-b487-27afbd101cd7",
-    "id": "7852",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Chatbot Arena - Free AI Chat to Compare & Test Best AI Chatbots",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://lmarena.ai/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13378376285565380",
-    "date_last_used": "0",
-    "guid": "664898a1-8a89-4c9c-8ef2-111a59e20111",
-    "id": "7963",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Cognition",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://cognition.ai/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13378561333981595",
-    "date_last_used": "0",
-    "guid": "ce2d62ab-70c8-454d-94df-bc0c6ee6cb83",
-    "id": "7985",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "ComfyUI | Generate video, images, audio with AI",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://www.comfy.org/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13378546023060580",
-    "date_last_used": "0",
-    "guid": "286e7f42-4300-454c-ba2b-865f22ad1608",
-    "id": "7977",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Devin",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://devin.ai/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13379618253568105",
-    "date_last_used": "0",
-    "guid": "055fe626-820b-4f10-b0a7-8b0a8d1cd936",
-    "id": "8031",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Digital Twin APIs",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://www.tavus.io/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13378384889845761",
-    "date_last_used": "0",
-    "guid": "58eced5f-099f-4f43-82c6-ecb58591d9b6",
-    "id": "7966",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Fireworks - Fastest Inference for Generative AI",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://fireworks.ai/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13377419874713811",
-    "date_last_used": "0",
-    "guid": "10e8bda1-c9b9-4d51-916b-9ccb4c09ed18",
-    "id": "7940",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Fooocus AI Online - AI Image Generator For Free",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://fooocus.one/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13377417966026485",
-    "date_last_used": "0",
-    "guid": "bd1631b8-c797-4ddb-b627-7f22a8dd10b8",
-    "id": "7939",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "FREE online image generator and model hosting site! | Tensor.Art",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://tensor.art/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13377088247687864",
-    "date_last_used": "0",
-    "guid": "05bb1816-3664-4eb3-abac-e0be04d7c862",
-    "id": "7914",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Free Text to Speech & AI Voice Generator | ElevenLabs",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://elevenlabs.io/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13377101110811594",
-    "date_last_used": "0",
-    "guid": "8cf16219-3e29-43ce-85a3-5e2a4d17d423",
-    "id": "7917",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Free Text to Speech & AI Voice Generator | ElevenLabs",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://elevenlabs.io/?s=09",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13379123269550108",
-    "date_last_used": "0",
-    "guid": "9b652b01-0b56-4cd6-a668-d16d6174ccbf",
-    "id": "8024",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Genesis \u2014 Genesis 0.2.0 documentation",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://genesis-world.readthedocs.io/en/latest/?s=09",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13377231561251611",
-    "date_last_used": "0",
-    "guid": "ed13c4bf-a988-41a9-8c2a-eeb53ed2fcdb",
-    "id": "7922",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "GPT-4 for Lawyers is now available | Spellbook",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://www.spellbook.legal/gpt-4-for-lawyers?campaignid=20953852504&adgroupid=&keyword=&device=m&utm_term=&utm_campaign=pmax_usca&utm_source=adwords&utm_medium=ppc&hsa_acc=6297073186&hsa_cam=20953852504&hsa_grp=&hsa_ad=&hsa_src=&hsa_tgt=&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQiAo5u6BhDJARIsAAVoDWv2eaeixawhlTd1kkMomHV3gIPXarO473NHleSc4U5vIrCx3dDkRZ4aAnkaEALw_wcB",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13378182610217921",
-    "date_last_used": "0",
-    "guid": "ab0a8f3b-00d5-4719-948b-fb48010b9bb9",
-    "id": "7958",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Home \u2022 Hume AI",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://www.hume.ai/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13378000688532740",
-    "date_last_used": "0",
-    "guid": "d34472ed-a1f0-4eec-a806-fb53f4ec5e09",
-    "id": "7953",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "how-to-finetune-paligemma2-for-json-data-extraction.ipynb - Colab",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-finetune-paligemma2-for-json-data-extraction.ipynb?s=09",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13379487153801470",
-    "date_last_used": "0",
-    "guid": "2d1517ad-3e23-4113-9f6f-f68eabb94632",
-    "id": "8032",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Hume AI",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://app.hume.ai/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13378563815225520",
-    "date_last_used": "0",
-    "guid": "d7887959-43f5-4a31-b547-af557cc294b7",
-    "id": "7986",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Infinite AI Artboard - Recraft",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://www.recraft.ai/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13378263788915461",
-    "date_last_used": "0",
-    "guid": "2f11df33-2420-4e25-ac8a-bac4ede52dd0",
-    "id": "7967",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Lindy.ai \u2014 Meet Your AI Assistant",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://www.lindy.ai/?s=09",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13377056283982990",
-    "date_last_used": "0",
-    "guid": "bdead0a8-5adf-4b37-ae1f-11b8b50558e2",
-    "id": "7866",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Magnific AI \u2014 The magic image Upscaler & Enhancer",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://magnific.ai/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13378791897385157",
-    "date_last_used": "0",
-    "guid": "94ccf578-83fc-4558-8cfc-541d1757b1d9",
-    "id": "7991",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "MinT",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://mint-video.github.io/?s=09",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13379054015617621",
-    "date_last_used": "0",
-    "guid": "011ee101-dbdd-49c7-a00f-0568a80548c6",
-    "id": "8023",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Odyssey",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://odyssey.systems/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13378638874526399",
-    "date_last_used": "0",
-    "guid": "9392eb9e-d675-478f-a42d-764d70d443a2",
-    "id": "7989",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "OpenAI Build Hour: On-Demand Library on Vimeo",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://vimeo.com/showcase/openaibuildhours?s=09",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13376713260060969",
-    "date_last_used": "0",
-    "guid": "8b2328f3-687e-4732-94d7-17fec66cc2cb",
-    "id": "7851",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Presentations and Slide Decks with AI | Gamma",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://gamma.app/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13378010442150324",
-    "date_last_used": "0",
-    "guid": "ca081a87-1dea-4cbd-8e4d-f651cc3483d7",
-    "id": "7955",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Reinforcement Fine-Tuning Research Program | OpenAI",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://openai.com/form/rft-research-program/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13378789841779720",
-    "date_last_used": "0",
-    "guid": "d6a43f7f-ea51-4c0d-ac3d-9bf4e06efef1",
-    "id": "7992",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Rexan Wong | Yoooo I'm Rexan, a 17-year-old high schooler & entrepreneur from Hong Kong who can build blockchain, iOS, and full-stack web apps.",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://www.rexanwong.xyz/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13377747643835281",
-    "date_last_used": "0",
-    "guid": "26c812f0-31ab-4d38-a485-76ace4405271",
-    "id": "7950",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Topaz Labs | Professional-grade photo and video editing powered by AI.",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://www.topazlabs.com/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13379306767351235",
-    "date_last_used": "0",
-    "guid": "3a96cbec-e719-42a7-a3c7-b25be41ba271",
-    "id": "8028",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Transform Unstructured Data into AI ready Assets",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://undatas.io/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13377336598222532",
-    "date_last_used": "0",
-    "guid": "eb1673c6-55d5-40af-834c-b99062e72982",
-    "id": "7936",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "Tripo AI - Create Your First 3D Model with Text and Image in Seconds",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://www.tripo3d.ai/",
-    "visit_count": 1
-  },
-  {
-    "date_added": "13378552854103672",
-    "date_last_used": "0",
-    "guid": "26d0e010-cae4-40a9-a5ac-d4cfe3fa626e",
-    "id": "7981",
-    "meta_info": {
-      "power_bookmark_meta": ""
-    },
-    "name": "unwind ai",
-    "show_icon": false,
-    "source": "sync",
-    "type": "url",
-    "url": "https://www.theunwindai.com/?s=09",
-    "visit_count": 1
   }
 ]

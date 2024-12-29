@@ -34,11 +34,14 @@ def main():
 
     # Load the JSON from a local file
     bookmarks_file = r"C:\Users\guygu\AppData\Local\Microsoft\Edge\User Data\Default\bookmarks"
-    local_bookmarks_file = "originalBookmarks.json"
+    local_bookmarks_file = "localBookmarks.json"
 
     with open(bookmarks_file, "r", encoding="utf-8",errors="replace") as f:
         data = json.load(f)
     
+    with open(local_bookmarks_file, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=4)
+
     print(type(data))
     print("Made it this far")   
 
@@ -58,6 +61,7 @@ def main():
                 if(keyRoots == "bookmark_bar"):
                     bookmark_bar = roots["bookmark_bar"]
                     for keyBookmarkBar in bookmark_bar.keys():
+                        
                         if(keyBookmarkBar == "children"):
                             bookmarkBarChildren = bookmark_bar["children"]
                             for child in bookmarkBarChildren:
@@ -65,24 +69,25 @@ def main():
                                     personalList = child
                                     for personalChild in personalList["children"]:
                                         if(personalChild["name"]) == "AI":
+                                            print(personalChild["name"])
                                             aiList = personalChild
                                             json_hierarchy_string = json.dumps(aiList.get('children', []), indent=2)
                                             with open('public/ai_bookmarks.json', 'w') as file:
                                                 file.write(json_hierarchy_string)
-                                            # print(json_hierarchy_string)
-                                            # for aiChild in aiList["children"]:
-                                            #     variable_type = aiChild.get('type', 'No Type')
-                                            #     is_Array = isinstance(aiChild.get('children', []), list)
-                                            #     children_Count = len(aiChild.get('children', []))
-                                            #     if(variable_type == "url"):
-                                            #         url_list.append(aiChild["url"])
-                                            #         print(f"{aiChild['name']} - {aiChild['url']} - {variable_type}")
-                                            #     if(variable_type == "folder"):
-                                            #         print(f"{aiChild['name']} - Count: {children_Count} - {variable_type}")
-                                            #         for folderChildren in aiChild["children"]:
-                                            #             print(f"  - {folderChildren['name']} - {folderChildren['url']} - {folderChildren.get('type', 'No Type')}")  
+                                            print(json_hierarchy_string)
+                                            for aiChild in aiList["children"]:
+                                                variable_type = aiChild.get('type', 'No Type')
+                                                is_Array = isinstance(aiChild.get('children', []), list)
+                                                children_Count = len(aiChild.get('children', []))
+                                                if(variable_type == "url"):
+                                                    url_list.append(aiChild["url"])
+                                                    print(f"{aiChild['name']} - {aiChild['url']} - {variable_type}")
+                                                if(variable_type == "folder"):
+                                                    print(f"{aiChild['name']} - Count: {children_Count} - {variable_type}")
+                                                    for folderChildren in aiChild["children"]:
+                                                        print(f"  - {folderChildren['name']} - {folderChildren['url']} - {folderChildren.get('type', 'No Type')}")  
                                             
-                                    # print(url_list)
+                                    print(url_list)
                                     with open('bookmarks.txt', 'w') as file:
                                         for url in url_list:
                                             file.write(f"{url}\n")
