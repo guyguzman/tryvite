@@ -30,11 +30,26 @@
         "type": "url",
         "url": "https://www.krea.ai/home",
         "visit_count": 1
+      },
+      {
+        "date_added": "13385697282992852",
+        "date_last_used": "0",
+        "guid": "407f1fce-ba9e-47cd-91d4-7d74034d5971",
+        "id": "8220",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Build Generative AI Applications with Foundation Models - Amazon Bedrock - AWS",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://aws.amazon.com/bedrock/?trk=cc3ee715-8f1c-49ab-aa13-9daedd21b324&sc_channel=ps&ef_id=CjwKCAiAiaC-BhBEEiwAjY99qD1Oe4aVILSAlWHQLews4bn_Halqaeu7zQYdqelEg9sNlzeNZMoeexoCOK4QAvD_BwE:G:s&s_kwcid=AL!4422!3!692006004700!e!!g!!aws%20bedrock!21048268557!159639953215&gclid=CjwKCAiAiaC-BhBEEiwAjY99qD1Oe4aVILSAlWHQLews4bn_Halqaeu7zQYdqelEg9sNlzeNZMoeexoCOK4QAvD_BwE",
+        "visit_count": 1
       }
     ],
     "date_added": "13378963819060079",
     "date_last_used": "0",
-    "date_modified": "13379827797193451",
+    "date_modified": "13385697282992852",
     "guid": "2e794ae1-2384-4148-a144-de149d3c2eca",
     "id": "8008",
     "name": "Access Portals",
@@ -102,11 +117,26 @@
         "type": "url",
         "url": "https://agent.ai/",
         "visit_count": 1
+      },
+      {
+        "date_added": "13381641792137976",
+        "date_last_used": "0",
+        "guid": "b8d17346-4cc2-4fa0-b282-7ee79cd9de98",
+        "id": "8108",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Agents Marketplace",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://marketplace.agen.cy/home",
+        "visit_count": 1
       }
     ],
     "date_added": "13378966239820299",
     "date_last_used": "0",
-    "date_modified": "13379933166838688",
+    "date_modified": "13381641792137976",
     "guid": "d977bd91-ed8a-4248-89eb-48e53973d9e5",
     "id": "8011",
     "name": "Agents",
@@ -215,11 +245,131 @@
         "type": "url",
         "url": "https://www.udio.com/",
         "visit_count": 1
+      },
+      {
+        "date_added": "13382239663110677",
+        "date_last_used": "0",
+        "guid": "3ef4e112-ed9e-4864-b2f8-ece6c9b15f3a",
+        "id": "8126",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "HKUSTAudio/Llasa-3B \u00b7 Hugging Face",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/HKUSTAudio/Llasa-3B?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382239735360688",
+        "date_last_used": "0",
+        "guid": "cb5b5dd8-4f4a-40ad-8628-ba736adf8a20",
+        "id": "8135",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Llasa 3b Tts - a Hugging Face Space by srinivasbilla",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/spaces/srinivasbilla/llasa-3b-tts?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383116434096079",
+        "date_last_used": "0",
+        "guid": "82daa051-4925-4701-8212-9b7ba7cac347",
+        "id": "8141",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "PlayAI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://play.ai/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383478286001481",
+        "date_last_used": "0",
+        "guid": "2813e424-b6e2-4e3a-ac04-17cafb0f1805",
+        "id": "8157",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Kokoro Text-to-Speech (WebGPU) - a Hugging Face Space by webml-community",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/spaces/webml-community/kokoro-webgpu?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383688942180751",
+        "date_last_used": "0",
+        "guid": "216bf3f3-0b22-46b5-8883-06483c32115b",
+        "id": "8164",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Zyphra Maia",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://playground.zyphra.com/chat?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383978720556169",
+        "date_last_used": "0",
+        "guid": "1155fb46-0833-4ed9-9637-a5df295a1cae",
+        "id": "8174",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Inside Bland Babel: Optimizing AI Transcription for Real-Time Speed & Accuracy",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.bland.ai/blogs/bland-babel-ai-transcription-optimization",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387586724081532",
+        "date_last_used": "0",
+        "guid": "4c65bd2d-5096-49ef-8d38-07114dda130f",
+        "id": "8321",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Orpheus_(3B)-TTS.ipynb - Colab",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Orpheus_(3B)-TTS.ipynb?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387715652182348",
+        "date_last_used": "0",
+        "guid": "88b5a4b6-7cb8-45b3-ad21-68e2c2699346",
+        "id": "8325",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Sesame AI - AI Voice Model for Natural and Expressive Speech",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.ai-sesame.com/",
+        "visit_count": 1
       }
     ],
     "date_added": "13378963303083673",
     "date_last_used": "0",
-    "date_modified": "13379932963498463",
+    "date_modified": "13387715652182348",
     "guid": "6961c632-e675-46a5-957b-2b2f1df5103b",
     "id": "8001",
     "name": "Audio",
@@ -318,6 +468,33 @@
   {
     "children": [
       {
+        "date_added": "13383967412456841",
+        "date_last_used": "0",
+        "guid": "0f120122-02c3-4aa7-960f-3a883c147f14",
+        "id": "8171",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Create Your Azure Free Account Or Pay As You Go | Microsoft Azure",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account/search?ef_id=_k_CjwKCAiAzba9BhBhEiwA7glbasfCVBM6MUooUvTh1J4f6pKqtKEwI5-hON-WDE623mWHxINAQ9IO-xoCBOEQAvD_BwE_k_&OCID=AIDcmmmfv501r5_SEM__k_CjwKCAiAzba9BhBhEiwA7glbasfCVBM6MUooUvTh1J4f6pKqtKEwI5-hON-WDE623mWHxINAQ9IO-xoCBOEQAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAzba9BhBhEiwA7glbasfCVBM6MUooUvTh1J4f6pKqtKEwI5-hON-WDE623mWHxINAQ9IO-xoCBOEQAvD_BwE",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13383967406175050",
+    "date_last_used": "0",
+    "date_modified": "13383967412456841",
+    "guid": "05e32000-cdb6-434f-afb5-84c304a86c8d",
+    "id": "8170",
+    "name": "Cloud Services",
+    "source": "unknown",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
         "date_added": "13378000688532740",
         "date_last_used": "0",
         "guid": "d34472ed-a1f0-4eec-a806-fb53f4ec5e09",
@@ -358,11 +535,341 @@
         "type": "url",
         "url": "https://github.com/microsoft/markitdown",
         "visit_count": 0
+      },
+      {
+        "date_added": "13380414029841731",
+        "date_last_used": "0",
+        "guid": "d8f14fa3-2d38-4113-beda-bd7fbd7a0734",
+        "id": "8079",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "unclecode/crawl4ai: \ud83d\ude80\ud83e\udd16 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/unclecode/crawl4ai",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381659776568071",
+        "date_last_used": "0",
+        "guid": "a5ea9f76-31c4-4b62-9bb3-7f7de8e52e1e",
+        "id": "8109",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Get social media data without breaking the bank - SocialData",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://socialdata.tools/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383977383329605",
+        "date_last_used": "0",
+        "guid": "602d7330-d187-4460-ada6-49721fc3657f",
+        "id": "8172",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Your connected workspace for wiki, docs & projects | Notion",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.notion.com/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13384258431091950",
+        "date_last_used": "0",
+        "guid": "9a890696-2886-4224-9c66-fb01bbcee48d",
+        "id": "8178",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Gitingest",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://gitingest.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13384742321993595",
+        "date_last_used": "0",
+        "guid": "73a50ad1-3099-40c6-bdb0-ae68dcdae34c",
+        "id": "8180",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "chartdb/chartdb: Database diagrams editor that allows you to visualize and design your DB with a single query.",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/chartdb/chartdb",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13384845414028681",
+        "date_last_used": "0",
+        "guid": "c09d51f0-f22f-431a-803c-d306a840ebc1",
+        "id": "8179",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Generate llms.txt",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://llmstxt.firecrawl.dev/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385249630049789",
+        "date_last_used": "0",
+        "guid": "ee8b31ea-3c91-41a9-86d2-bf12ad37ebd2",
+        "id": "8198",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "\ud83d\udd25 Matt Dancho (Business Science) \ud83d\udd25 on X: \"I'm excited to introduce my AI Machine Learning Agent that built 32 ML models in 30 seconds. Today, I'll share with you how to automate building 100s of ML models with the AI ML Agent, which is available on GitHub. We'll create an ML Agent focusing on a Customer Churn Problem. https://t.co/uwLYQ4ZrUp\" / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/mdancho84/status/1895119825699013037?t=XVu0lKk3JaPv8UW6bKa3RQ&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385629558701995",
+        "date_last_used": "0",
+        "guid": "113d13ed-251a-46dc-880e-284cee35f261",
+        "id": "8208",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Customize a model with Azure OpenAI Service - Azure OpenAI | Microsoft Learn",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?tabs=azure-openai%2Cpython-new&pivots=programming-language-studio",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385629877717606",
+        "date_last_used": "0",
+        "guid": "2fe25100-f64f-4477-bed8-72c85a1d4c52",
+        "id": "8209",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "An introduction to preparing your own dataset for LLM training | AWS Machine Learning Blog",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://aws.amazon.com/blogs/machine-learning/an-introduction-to-preparing-your-own-dataset-for-llm-training/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385630418628903",
+        "date_last_used": "0",
+        "guid": "ccd82584-48ee-4d26-b887-1eef89869113",
+        "id": "8210",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Data preparation for LLMs: techniques, tools and our established pipeline",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://nebius.com/blog/posts/data-preparation/llm-dataprep-techniques",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385630974089396",
+        "date_last_used": "0",
+        "guid": "ad4e9f76-404e-4efc-a840-a8ee13c55b2f",
+        "id": "8211",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Prepare a dataset for training and validation of a Large Language Model (LLM) | DigitalOcean",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.digitalocean.com/community/tutorials/create-llm-dataset-for-training-and-validation",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385631273656846",
+        "date_last_used": "0",
+        "guid": "18ea834b-f579-493a-a511-507e756d88d9",
+        "id": "8212",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Common Crawl - Open Repository of Web Crawl Data",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://commoncrawl.org/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385631430902761",
+        "date_last_used": "0",
+        "guid": "6f1d85f2-0532-45af-ac25-81e97be4fd19",
+        "id": "8213",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Preparing data for LLM training \u2014 Research Computing and Data Workshop",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://clemsonciti.github.io/rcde_workshops/pytorch_llm/01-data.html",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385631642657388",
+        "date_last_used": "0",
+        "guid": "fe887db8-f8b5-46d0-854e-d9f71b2b7f2f",
+        "id": "8214",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Download Data - PubMed",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/download/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385632528232949",
+        "date_last_used": "0",
+        "guid": "dd98fe96-73fc-45ea-ba3c-cca18c6b9517",
+        "id": "8215",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "From Zero to Hero in LLMs: Data Preparation for Large Language Models | by Keval Dekivadiya | Medium",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://medium.com/@kevaldekivadiya2415/from-zero-to-hero-in-llms-data-preparation-for-large-language-models-49d1b2d50a12",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385727751141136",
+        "date_last_used": "0",
+        "guid": "0b0c38be-5b2d-4006-b8fa-891b13c9c24c",
+        "id": "8226",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "PDFParsersPlayground - a Hugging Face Space by chunking-ai",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/spaces/chunking-ai/pdf-playground?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385890226910035",
+        "date_last_used": "0",
+        "guid": "c6fa3a0b-19b2-429b-84c8-51d3fcd3bfb1",
+        "id": "8229",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "LlamaIndex \ud83e\udd99 (@llama_index) / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/llama_index?t=bM2rRkWpyrVma5ie6RYcGg&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385890309892446",
+        "date_last_used": "0",
+        "guid": "07a5ab37-3523-448b-a1b4-19b8f03304f2",
+        "id": "8228",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "LlamaParse: Transform unstructured data into LLM optimized formats \u2014 LlamaIndex - Build Knowledge Assistants over your Enterprise Data",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.llamaindex.ai/llamaparse",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386162047239339",
+        "date_last_used": "0",
+        "guid": "26b3277c-b76f-44da-80e2-b029732558de",
+        "id": "8251",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "public-apis/public-apis: A collective list of free APIs",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/public-apis/public-apis",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386325835104086",
+        "date_last_used": "0",
+        "guid": "e18616d6-af93-4599-97c3-527db3c692de",
+        "id": "8261",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Easily Ask Your LLM Coding Questions",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://uithub.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386407495886231",
+        "date_last_used": "0",
+        "guid": "decfe683-9e12-406c-a4a9-ba790b16d133",
+        "id": "8260",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Tyler Shukert on X: \"Supabase can be used as a vector database! This means that you can perform a semantic search against Supabase! This allows you to create RAG apps or content recommendation engines on top of Supabase! Learn what embeddings are, and how you can use them \ud83d\udc47 https://t.co/po2A3MCwNS\" / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/dshukertjr/status/1900155631975489659?t=l806tglAhKMbpjPYKMs6IQ&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386449601637114",
+        "date_last_used": "0",
+        "guid": "ce85cb01-1d77-4b41-9c22-4ca459d0d686",
+        "id": "8259",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Windsurf on X: \"You can use @neondatabase's MCP servers to interact with your backend using natural language commands. This means you can manage projects, branches, execute SQL queries, and perform database migrations without writing any SQL or directly using the API. Check out how it works https://t.co/kFZ4lVQmJ9\" / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/windsurf_ai/status/1900332039418810442?t=LK1YbR-8t7o7dUyiIa_kMg&s=09",
+        "visit_count": 1
       }
     ],
     "date_added": "13379932558128052",
     "date_last_used": "0",
-    "date_modified": "13379932601842117",
+    "date_modified": "13386449601637114",
     "guid": "192314b8-d010-45e5-82d2-338f76306f8f",
     "id": "8066",
     "name": "Data",
@@ -622,11 +1129,416 @@
         "type": "url",
         "url": "https://chainlit.io/",
         "visit_count": 0
+      },
+      {
+        "date_added": "13381470842572472",
+        "date_last_used": "0",
+        "guid": "44a49732-d538-4e2b-b31b-58400edb297a",
+        "id": "8093",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Devin (the Developer)",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://app.devin.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381627621513850",
+        "date_last_used": "0",
+        "guid": "086e07a7-bd2f-41c2-a201-d88a2b305486",
+        "id": "8097",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "openai/openai-realtime-agents: This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/openai/openai-realtime-agents",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381640487494689",
+        "date_last_used": "0",
+        "guid": "45bd2e9c-ac15-4dc9-8621-a90d8b40d645",
+        "id": "8106",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Function calling - OpenAI API",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://platform.openai.com/docs/guides/function-calling?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381641606754000",
+        "date_last_used": "0",
+        "guid": "cb31f143-ca57-4cfa-b988-e02abdc24e13",
+        "id": "8107",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "QuivrHQ/MegaParse: File Parser optimised for LLM Ingestion with no loss \ud83e\udde0 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/QuivrHQ/MegaParse",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381808982127483",
+        "date_last_used": "0",
+        "guid": "8c14b717-857c-4c7a-82ab-1b8b467dcd0f",
+        "id": "8112",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Advanced AI Workflow Automation Software & Tools - n8n",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://n8n.io/ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381811837046528",
+        "date_last_used": "0",
+        "guid": "38672388-9f28-420a-9f86-c226e48a39c0",
+        "id": "8114",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Promptmetheus: Prompt Engineering IDE",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://promptmetheus.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381827721824405",
+        "date_last_used": "0",
+        "guid": "ccf45259-8f32-403c-828b-6a4215ab1832",
+        "id": "8115",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "27 Best JavaScript Frameworks For 2024 | LambdaTest",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.lambdatest.com/blog/best-javascript-frameworks/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381827851822587",
+        "date_last_used": "0",
+        "guid": "eeae427c-efa8-40b2-97a3-d9d45e22f1d0",
+        "id": "8116",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Express - Node.js web application framework",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://expressjs.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382050426999791",
+        "date_last_used": "0",
+        "guid": "2b60edf2-f4b2-41a8-92c1-14ec3e1e02af",
+        "id": "8120",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "reflex-dev/reflex-llm-examples",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/reflex-dev/reflex-llm-examples",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382179094651037",
+        "date_last_used": "0",
+        "guid": "d9a5afbe-2793-40ec-8d6c-7f7def809ed8",
+        "id": "8125",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Stack AI \u00b7 The Platform for Enterprise AI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.stack-ai.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382331392804121",
+        "date_last_used": "0",
+        "guid": "5f76d24c-de5b-4d3d-82b7-a17f369528a8",
+        "id": "8134",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "santinic/audiblez: Generate audiobooks from e-books",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/santinic/audiblez",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382562482435054",
+        "date_last_used": "0",
+        "guid": "65bbf61c-448f-406c-a1b8-95c921837f9a",
+        "id": "8138",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Postman AI Agent Builder",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.postman.com/product/ai-agent-builder/?utm_campaign=global_fy26q1_prdctcm_agentic&utm_medium=influencer_pd&utm_source=santiago-valdarrama&utm_content=ai-agent-builder-lp&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382700889588224",
+        "date_last_used": "0",
+        "guid": "32c0990a-0cbf-4ec4-a0c1-cee5e18a88c5",
+        "id": "8153",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Cline - Autonomous Coding Agent for VSCode",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://cline.bot/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385207578190205",
+        "date_last_used": "0",
+        "guid": "a1901693-258f-4131-954d-a504eca76cdb",
+        "id": "8196",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Lovable",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://lovable.dev/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385537031060316",
+        "date_last_used": "0",
+        "guid": "f7d4ccba-5364-496c-aa31-8ff34b5d48ab",
+        "id": "8207",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "For Claude Desktop Users - Model Context Protocol",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://modelcontextprotocol.io/quickstart/user",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385765237962276",
+        "date_last_used": "0",
+        "guid": "aa43dd23-ba16-4ac1-9a56-10067b5ca414",
+        "id": "8244",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Mistral OCR | Mistral AI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://mistral.ai/news/mistral-ocr?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385818441929418",
+        "date_last_used": "0",
+        "guid": "914ca1ee-d2d7-4661-9660-c5157ac4e25f",
+        "id": "8243",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Cal.com \u2014 ElevenLabs Documentation",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://elevenlabs.io/docs/conversational-ai/guides/integrations/cal-com?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385985931069686",
+        "date_last_used": "0",
+        "guid": "d5a129fb-46c5-410e-b40e-cc750f6aebe4",
+        "id": "8246",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Building Blocks for the Web - shadcn/ui",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://ui.shadcn.com/blocks/login",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386100232962783",
+        "date_last_used": "0",
+        "guid": "323e0a43-ddbe-45c8-a812-1116bbb590db",
+        "id": "8250",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "09 - Groq",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://groq.com/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386239654860967",
+        "date_last_used": "0",
+        "guid": "59b4aec7-d71d-49bb-b4ee-d3e915677f1d",
+        "id": "8253",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "NumberFlow - An animated number component",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://number-flow.barvian.me/vanilla?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386278468081853",
+        "date_last_used": "0",
+        "guid": "557a4009-400c-4cf5-aced-a77195c49da1",
+        "id": "8316",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "LlamaIndex - Build Knowledge Assistants over your Enterprise Data",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.llamaindex.ai/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386280111288471",
+        "date_last_used": "0",
+        "guid": "598a00dd-92cd-46d6-8c25-1881c495294f",
+        "id": "8318",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Gemma 3: Google\u2019s new open model based on Gemini 2.0",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://blog.google/technology/developers/gemma-3/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386298047691590",
+        "date_last_used": "0",
+        "guid": "b8bb7a21-afc2-4951-8db9-d92095632bea",
+        "id": "8317",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "merveenoyan/smol-vision: Recipes for shrinking, optimizing, customizing cutting edge vision models. \ud83d\udc9c",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/merveenoyan/smol-vision",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387059554060747",
+        "date_last_used": "0",
+        "guid": "a9b8637c-6970-4dcd-96a4-6a0045f3fb3f",
+        "id": "8314",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Magic - AI Agent for Your IDE That Creates Professional UI Components | 21st.dev | 21st",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://21st.dev/magic",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387066840548963",
+        "date_last_used": "0",
+        "guid": "bb77251c-5033-41fe-8919-c9a523a91a60",
+        "id": "8313",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Roboflow: Computer vision tools for developers and enterprises",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://roboflow.com/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387070358924086",
+        "date_last_used": "0",
+        "guid": "bd4bc2d3-1506-4232-a277-82885f93524f",
+        "id": "8315",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "chaolongy/KDTalker: Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/chaolongy/KDTalker",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387497366414166",
+        "date_last_used": "0",
+        "guid": "de162c7b-b3de-4fb5-bef1-41d982b8d9c6",
+        "id": "8319",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Claude Code overview - Anthropic",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview?s=09",
+        "visit_count": 1
       }
     ],
     "date_added": "13378963570179737",
     "date_last_used": "0",
-    "date_modified": "13379933655942391",
+    "date_modified": "13387497366414166",
     "guid": "f1e5237e-a6cd-4414-bdc3-b83a950a13c6",
     "id": "8007",
     "name": "Development",
@@ -635,6 +1547,21 @@
   },
   {
     "children": [
+      {
+        "date_added": "13381375385770785",
+        "date_last_used": "0",
+        "guid": "533f199e-4ca1-4790-9f16-a23489e4a3c9",
+        "id": "8087",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Anychat - Hugging Face Gemini",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/spaces/akhaliq/anychat",
+        "visit_count": 1
+      },
       {
         "date_added": "13379145260943867",
         "date_last_used": "0",
@@ -673,7 +1600,7 @@
         "meta_info": {
           "power_bookmark_meta": ""
         },
-        "name": "Google | 2D spatial understanding with Gemini 2.0",
+        "name": "Google \u25cf 2D spatial understanding with Gemini 2.0",
         "show_icon": false,
         "source": "sync",
         "type": "url",
@@ -688,7 +1615,7 @@
         "meta_info": {
           "power_bookmark_meta": ""
         },
-        "name": "Google | Gemini API: Getting started with Gemini 2.0",
+        "name": "Google \u25cf Gemini API: Getting started with Gemini 2.0",
         "show_icon": false,
         "source": "sync",
         "type": "url",
@@ -703,7 +1630,7 @@
         "meta_info": {
           "power_bookmark_meta": ""
         },
-        "name": "Google | ImageFX",
+        "name": "Google \u25cf ImageFX",
         "show_icon": false,
         "source": "sync",
         "type": "url",
@@ -718,7 +1645,7 @@
         "meta_info": {
           "power_bookmark_meta": ""
         },
-        "name": "Google | NotebookLM",
+        "name": "Google \u25cf NotebookLM",
         "show_icon": false,
         "source": "sync",
         "type": "url",
@@ -733,7 +1660,7 @@
         "meta_info": {
           "power_bookmark_meta": ""
         },
-        "name": "Google | VideoFX",
+        "name": "Google \u25cf VideoFX",
         "show_icon": false,
         "source": "sync",
         "type": "url",
@@ -763,7 +1690,7 @@
         "meta_info": {
           "power_bookmark_meta": ""
         },
-        "name": "Google AI Studio | Stream Realtime",
+        "name": "Google AI Studio \u25cf Stream Realtime",
         "show_icon": false,
         "source": "sync",
         "type": "url",
@@ -808,7 +1735,7 @@
         "meta_info": {
           "power_bookmark_meta": ""
         },
-        "name": "Google Gemini - Multimodal Live API - Web console",
+        "name": "Google Gemini \u25cf Multimodal Live API - Web console",
         "show_icon": false,
         "source": "sync",
         "type": "url",
@@ -853,7 +1780,7 @@
         "meta_info": {
           "power_bookmark_meta": ""
         },
-        "name": "Google Labs FX Tools",
+        "name": "Google Labs \u25cf FX Tools",
         "show_icon": false,
         "source": "sync",
         "type": "url",
@@ -868,7 +1795,7 @@
         "meta_info": {
           "power_bookmark_meta": ""
         },
-        "name": "Google NotebookLM | Note Taking & Research Assistant Powered by AI",
+        "name": "Google NotebookLM \u25cf Note Taking & Research Assistant Powered by AI",
         "show_icon": false,
         "source": "sync",
         "type": "url",
@@ -893,11 +1820,68 @@
     ],
     "date_added": "13378963268404328",
     "date_last_used": "0",
-    "date_modified": "13379931492107539",
+    "date_modified": "13381375385770785",
     "guid": "31b7be0b-b6fb-4c68-aeb3-5107795250fb",
     "id": "7998",
     "name": "Google",
     "source": "extension",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13384911472535019",
+        "date_last_used": "0",
+        "guid": "bda2d4cf-9469-4eb4-ae7f-8fc893d3d87e",
+        "id": "8188",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Mermaid | Diagramming and charting tool",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://mermaid.js.org/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13384911504960958",
+        "date_last_used": "0",
+        "guid": "6619f8de-aa49-4b64-ac0d-b3584e7eda71",
+        "id": "8189",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Excalidraw",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://excalidraw.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385839626116776",
+        "date_last_used": "0",
+        "guid": "7b2518c3-b29a-4858-8da5-bd4e48eaeed6",
+        "id": "8245",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "PopAi: Chat, Read, Write and Present with AI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.popai.pro/",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13384911456657449",
+    "date_last_used": "0",
+    "date_modified": "13385839626116776",
+    "guid": "fce40176-9793-4072-a0d9-012727d4961d",
+    "id": "8186",
+    "name": "Graphics",
+    "source": "unknown",
     "type": "folder"
   },
   {
@@ -1015,11 +1999,38 @@
         "type": "url",
         "url": "https://www.midjourney.com/home",
         "visit_count": 1
+      },
+      {
+        "date_added": "13387365388852266",
+        "date_last_used": "0",
+        "guid": "4cff3e20-33f4-410e-ae33-86f092d1fc85",
+        "id": "8270",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Reve Image",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://preview.reve.art/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387765085160311",
+        "date_last_used": "0",
+        "guid": "7f094e64-6179-4e58-8f94-94ac18334d5e",
+        "id": "8329",
+        "name": "Stability AI",
+        "show_icon": false,
+        "source": "user_copy",
+        "type": "url",
+        "url": "https://stability.ai/",
+        "visit_count": 0
       }
     ],
     "date_added": "13378963547075873",
     "date_last_used": "0",
-    "date_modified": "13379752556549573",
+    "date_modified": "13387765085160311",
     "guid": "8f899e14-ca07-4cd6-8cd2-d37a23f575ef",
     "id": "8006",
     "name": "Image Generation",
@@ -1028,6 +2039,81 @@
   },
   {
     "children": [
+      {
+        "date_added": "13380031257868980",
+        "date_last_used": "0",
+        "guid": "5badf529-7280-4868-86c5-e96a87dd7f18",
+        "id": "8074",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Abacus.AI - ChatLLM Teams",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://chatllm.abacus.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13380513151467767",
+        "date_last_used": "0",
+        "guid": "36afd27c-3aaa-4710-a970-6d74e324fabc",
+        "id": "8080",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Agents | Kaggle",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.kaggle.com/whitepaper-agents?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382155892177425",
+        "date_last_used": "0",
+        "guid": "c33d5000-6a26-4f77-b56c-650a5c785fc0",
+        "id": "8124",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "AI Tutoring Outperforms Active Learning | Research Square",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.researchsquare.com/article/rs-4243877/v1",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13379942547401824",
+        "date_last_used": "0",
+        "guid": "61255908-8a78-4da9-b7f5-207173165e6d",
+        "id": "8071",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Anthropic \u25cf Building effective agents",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.anthropic.com/research/building-effective-agents",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381829974623886",
+        "date_last_used": "0",
+        "guid": "13d39e86-2857-4bf0-bd44-a4d2f8d9f1a7",
+        "id": "8117",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Azure for JavaScript and Node.js developers | Microsoft Learn",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://learn.microsoft.com/en-us/azure/developer/javascript/",
+        "visit_count": 1
+      },
       {
         "date_added": "13376705023612201",
         "date_last_used": "0",
@@ -1041,6 +2127,51 @@
         "source": "sync",
         "type": "url",
         "url": "https://lmarena.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382278675636563",
+        "date_last_used": "0",
+        "guid": "c62d44e6-1d1f-4d40-afab-d84e993a7085",
+        "id": "8132",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "CodeGuide",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.codeguide.dev/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381930847098880",
+        "date_last_used": "0",
+        "guid": "5924f57d-82ba-4cbd-b502-f6dbf9caa2a1",
+        "id": "8118",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "deepseek-ai/DeepSeek-R1 \u00b7 Hugging Face",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383965273569017",
+        "date_last_used": "0",
+        "guid": "8c8b2fcd-24d3-4b0c-8a29-c96588783fbe",
+        "id": "8168",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "FineWeb: decanting the web for the finest text data at scale - a Hugging Face Space by HuggingFaceFW",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1",
         "visit_count": 1
       },
       {
@@ -1059,6 +2190,171 @@
         "visit_count": 1
       },
       {
+        "date_added": "13383346709691711",
+        "date_last_used": "0",
+        "guid": "33540a99-087d-4206-991c-f91d2c19700f",
+        "id": "8162",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "GitHub Copilot: The agent awakens - The GitHub Blog",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383351187350248",
+        "date_last_used": "0",
+        "guid": "70aabdc8-25e2-4ae0-a1fa-99c6f2d75b0c",
+        "id": "8161",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "How real-world businesses are transforming with AI - with 50 new stories - The Official Microsoft Blog",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://blogs.microsoft.com/blog/2025/02/05/https-blogs-microsoft-com-blog-2024-11-12-how-real-world-businesses-are-transforming-with-ai/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382257373545603",
+        "date_last_used": "0",
+        "guid": "dbab41dc-8b6f-4246-adf9-6d6990048837",
+        "id": "8131",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "How to Fine-Tune LLMs in 2024 with Hugging Face",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.philschmid.de/fine-tune-llms-in-2024-with-trl?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381498437282609",
+        "date_last_used": "0",
+        "guid": "58c6e791-2bc2-4cff-afb8-4bb61d7a8206",
+        "id": "8094",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Hugging Face - AI Agents Course",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.us17.list-manage.com/subscribe?u=7f57e683fa28b51bfc493d048&id=9ed45a3ef6&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383978457680924",
+        "date_last_used": "0",
+        "guid": "3269ab5c-2219-4f29-97c0-56aa9d4afe16",
+        "id": "8173",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Inside Bland Babel: Optimizing AI Transcription for Real-Time Speed & Accuracy",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.bland.com/blogs/bland-babel-ai-transcription-optimization?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382137502629336",
+        "date_last_used": "0",
+        "guid": "0c5780aa-80ef-498d-909e-b4ba77556c0c",
+        "id": "8123",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Introducing Operator research preview | OpenAI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://openai.com/index/introducing-operator/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381558060001768",
+        "date_last_used": "0",
+        "guid": "9407f421-ada8-4389-b645-3b14dc5301a3",
+        "id": "8095",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Introduction to RAG Course",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://dair-ai.thinkific.com/courses/introduction-rag?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381809117911722",
+        "date_last_used": "0",
+        "guid": "237a1345-45f9-453b-9fe0-417a7347eb3b",
+        "id": "8113",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Latest Tutorials topics - n8n Community",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://community.n8n.io/c/tutorials/28?utm_content=buffer64939&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382312168559199",
+        "date_last_used": "0",
+        "guid": "7dea404f-dd30-48b7-ab43-116e5f781371",
+        "id": "8133",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Learn to build software with AI, ship fast, and see real results. | Instructa Courses",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.instructa.ai/en?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13380028491630512",
+        "date_last_used": "0",
+        "guid": "f16239e5-6235-4234-b24c-bac819e2207e",
+        "id": "8072",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "LLM Visualization",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://bbycroft.net/llm",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383622691535195",
+        "date_last_used": "0",
+        "guid": "caea1c2d-2df0-4002-877b-b3490c45551f",
+        "id": "8163",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning: This is the homepage of a new book entitled \"Mathematical Foundations of Reinforcement Learning.\"",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning/tree/main",
+        "visit_count": 1
+      },
+      {
         "date_added": "13378791897385157",
         "date_last_used": "0",
         "guid": "94ccf578-83fc-4558-8cfc-541d1757b1d9",
@@ -1071,6 +2367,93 @@
         "source": "sync",
         "type": "url",
         "url": "https://mint-video.github.io/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13380872157341050",
+        "date_last_used": "0",
+        "guid": "ab2fcd52-e1a5-4237-bc38-9017d9f143d6",
+        "id": "8082",
+        "name": "MIT Free Courses",
+        "show_icon": false,
+        "source": "user_copy",
+        "type": "url",
+        "url": "https://x.com/TheAIAndy/status/1873328517171253507?t=_JKZG6pyQfLIVPlMnSh43A&s=01",
+        "visit_count": 0
+      },
+      {
+        "date_added": "13380028613399632",
+        "date_last_used": "0",
+        "guid": "8f631496-ea03-4bd3-abc1-b0f41690f255",
+        "id": "8073",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Netron",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://netron.app/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381758938224398",
+        "date_last_used": "0",
+        "guid": "ce181c69-ab17-4a37-8f57-a6043a83497c",
+        "id": "8111",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Notes: Build an LLM from Scratch",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://docs.google.com/document/u/0/d/1zlsB1Gu5LcchoDyfT52n5GT0td6t7416RZj2slQMk6w/mobilebasic?s=09&pli=1",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13380709559031822",
+        "date_last_used": "0",
+        "guid": "a3b0ca59-3002-4f08-9d56-002fc89e1cf4",
+        "id": "8081",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "NVIDIA/Cosmos: Cosmos is a world of Physical AI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/NVIDIA/Cosmos",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383220249866559",
+        "date_last_used": "0",
+        "guid": "1893a3cd-2134-4196-a342-47b9c43dbea8",
+        "id": "8160",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "omnihuman-lab.github.io/?s=09",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://omnihuman-lab.github.io/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382532812406331",
+        "date_last_used": "0",
+        "guid": "2d822f67-7798-4af9-9260-78e43d57e876",
+        "id": "8137",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Open-R1: a fully open reproduction of DeepSeek-R1",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/blog/open-r1",
         "visit_count": 1
       },
       {
@@ -1113,6 +2496,36 @@
         "visit_count": 0
       },
       {
+        "date_added": "13383219565190531",
+        "date_last_used": "0",
+        "guid": "64b5cde5-ad1e-42b0-877e-e2f746e5b93c",
+        "id": "8156",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Paper page - VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/papers/2502.02492?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13380225188815893",
+        "date_last_used": "0",
+        "guid": "97fcb31c-8503-4548-af90-504c423ea8fc",
+        "id": "8077",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Reasoning with o1 - DeepLearning.AI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.deeplearning.ai/short-courses/reasoning-with-o1/",
+        "visit_count": 1
+      },
+      {
         "date_added": "13378010442150324",
         "date_last_used": "0",
         "guid": "ca081a87-1dea-4cbd-8e4d-f651cc3483d7",
@@ -1126,11 +2539,521 @@
         "type": "url",
         "url": "https://openai.com/form/rft-research-program/",
         "visit_count": 1
+      },
+      {
+        "date_added": "13380155816935694",
+        "date_last_used": "0",
+        "guid": "c8a01e07-666f-434a-9872-28883fe120eb",
+        "id": "8076",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "STORM",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://storm.genie.stanford.edu/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381672085137866",
+        "date_last_used": "0",
+        "guid": "da463c55-ec97-4b4e-9a9e-4a503cbf6573",
+        "id": "8110",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "The Illustrated Transformer \u2013 Jay Alammar \u2013 Visualizing machine learning one concept at a time.",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://jalammar.github.io/illustrated-transformer/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383967174632864",
+        "date_last_used": "0",
+        "guid": "d9a70bfa-56ae-4c88-bb0d-743bb7ba4439",
+        "id": "8169",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Tiktokenizer",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://tiktokenizer.vercel.app/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13380349216896874",
+        "date_last_used": "0",
+        "guid": "e0e8b121-07b4-49a7-907d-2c0618674215",
+        "id": "8078",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Transformers Laid Out | Pramod\u2019s Blog",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://goyalpramod.github.io/blogs/Transformers_laid_out/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381464798699614",
+        "date_last_used": "0",
+        "guid": "2f7ea763-2eaf-4a5a-8bdd-76201184a033",
+        "id": "8092",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Transforming the World with AI and Advanced Computing | SandboxAQ",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.sandboxaq.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13384032166611852",
+        "date_last_used": "0",
+        "guid": "83cfb4de-940c-4048-819c-2c4ddcd6e04d",
+        "id": "8175",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Using AI to decode language from the brain and advance our understanding of human communication",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://ai.meta.com/blog/brain-ai-research-human-communication/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13384566716146249",
+        "date_last_used": "0",
+        "guid": "25302171-415f-4290-98ad-16887b3c419e",
+        "id": "8183",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "The Ultra-Scale Playbook - a Hugging Face Space by nanotron",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/spaces/nanotron/ultrascale-playbook?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381558122900468",
+        "date_last_used": "0",
+        "guid": "2f9e35e3-0861-4507-86cb-4b23728ab998",
+        "id": "8096",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "ZenML - LLMOps Database",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.zenml.io/llmops-database?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13384685645970285",
+        "date_last_used": "0",
+        "guid": "0211038c-2b9c-4605-b4bf-aff7f8fada34",
+        "id": "8184",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "mishushakov/llm-scraper: Turn any webpage into structured data using LLMs",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/mishushakov/llm-scraper",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13384694416869344",
+        "date_last_used": "0",
+        "guid": "01f0102e-83d3-4ea5-b3ef-5aee9be91a32",
+        "id": "8185",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Hugging Face \u2013 The AI community building the future.",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13384947742569861",
+        "date_last_used": "0",
+        "guid": "be964189-ee81-4226-b3e3-9a0fbd8414f4",
+        "id": "8190",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "I Tested Grok-3\u2014Here\u2019s What Surprised Me - Charafeddine",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.cohorte.co/letters/i-tested-grok-3--heres-what-surprised-me?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385007297658988",
+        "date_last_used": "0",
+        "guid": "8fc55f67-a6df-4029-bc3e-2cdd7d11d7ee",
+        "id": "8191",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Best Prompts for Music Generator AI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.soundverse.ai/blog/article/best-prompts-for-music-generator-ai",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385257832551945",
+        "date_last_used": "0",
+        "guid": "f8e2fdcf-da38-4230-a2a8-28501469323c",
+        "id": "8199",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Think Python \u2014 Think Python",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://allendowney.github.io/ThinkPython/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385430521498199",
+        "date_last_used": "0",
+        "guid": "954735e5-44cf-4924-8fd1-90542f860fa0",
+        "id": "8200",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Free Programming Books \u2013 GoalKicker.com",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://goalkicker.com/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385773162335873",
+        "date_last_used": "0",
+        "guid": "f1933c33-baad-438b-bd8d-a5dc649f0eee",
+        "id": "8242",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "microsoft/generative-ai-for-beginners: 21 Lessons, Get Started Building with Generative AI \ud83d\udd17 https://microsoft.github.io/generative-ai-for-beginners/",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/microsoft/generative-ai-for-beginners",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385891633820532",
+        "date_last_used": "0",
+        "guid": "cb654688-dcf4-4e62-8bfe-d45c8b0f478f",
+        "id": "8240",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "microsoft/Generative-AI-for-beginners-dotnet: Five lessons, learn how to really apply AI to your .NET Applications",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385937354812011",
+        "date_last_used": "0",
+        "guid": "6d23aa85-ae8e-4bc6-a16b-2f53dcc5a024",
+        "id": "8239",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": ".NET AI Template Now Available in Preview - .NET Blog",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-ai-template-preview1/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385958508779546",
+        "date_last_used": "0",
+        "guid": "9855eeb1-6682-44b9-9f2d-69eba08e40f0",
+        "id": "8241",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Neural Networks, Manifolds, and Topology -- colah's blog",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386039228127148",
+        "date_last_used": "0",
+        "guid": "b03ab3d8-155e-49b6-bfde-d982baa06bac",
+        "id": "8247",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Developer Learning, Trainings, Courses, and Resources - AWS",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://aws.amazon.com/developer/learning/?utm_source=freeman-forrest&utm_medium=newsletter3&utm_campaign=aws-february&utm_term=Daily+Dose+of+Data+Science&utm_content=aws-developer-center-learning",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386039817240530",
+        "date_last_used": "0",
+        "guid": "5f74f899-877e-41ff-a0b9-00fed0bde31e",
+        "id": "8248",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "patchy631/ai-engineering-hub",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/patchy631/ai-engineering-hub/tree/main",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386041356173909",
+        "date_last_used": "0",
+        "guid": "015e7df8-7b1b-4ae9-9c04-469c2df500c3",
+        "id": "8249",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Attention is all you have",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://mrinalxdev.github.io/mrinalxblogs/blogs/attention.html?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386465607875920",
+        "date_last_used": "0",
+        "guid": "d48e29b8-6f4a-4079-9e09-bfdde5a4ab23",
+        "id": "8309",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Thera: Aliasing-Free Arbitrary-Scale Super-Resolution with Neural Heat Fields",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://therasr.github.io/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386648644180667",
+        "date_last_used": "0",
+        "guid": "e0bbc3ca-ca71-4cb5-868a-33e55ece794e",
+        "id": "8311",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Fine-tuning Guide | Unsloth Documentation",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://docs.unsloth.ai/get-started/fine-tuning-guide?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386728109457101",
+        "date_last_used": "0",
+        "guid": "0a8c2be3-94a7-41ec-a05b-5c6361c2743c",
+        "id": "8302",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Paper page - ReCamMaster: Camera-Controlled Generative Rendering from A Single Video",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/papers/2503.11647",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386794373221211",
+        "date_last_used": "0",
+        "guid": "12f1defb-9e45-4211-bbd1-c1dbadffa86b",
+        "id": "8307",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "New Gemini features: Canvas and Audio Overview",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://blog.google/products/gemini/gemini-collaboration-features/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386803268449397",
+        "date_last_used": "0",
+        "guid": "baa6fbf4-d19c-4029-8250-0343fa9f6996",
+        "id": "8305",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Books/Reinforcement Learning- An Overview.pdf at main \u00b7 AniruddhaChattopadhyay/Books",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/AniruddhaChattopadhyay/Books/blob/main/Reinforcement%20Learning-%20An%20Overview.pdf",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386813863281280",
+        "date_last_used": "0",
+        "guid": "9dd37fdd-84c2-4653-a50b-bdc131c5e353",
+        "id": "8306",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Generate images \u00a0|\u00a0 Gemini API \u00a0|\u00a0 Google AI for Developers",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://ai.google.dev/gemini-api/docs/image-generation?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387182132860207",
+        "date_last_used": "0",
+        "guid": "387e54fa-91de-441d-962d-f85cabe065fb",
+        "id": "8304",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Akshay \ud83d\ude80 on X: \"Python library to fine-tune Gemma 3! \ud83d\udd25 Gemma is a minimal library for using and fine-tuning Gemma. Includes docs on fine-tuning, sharding, LoRA, PEFT, multimodality and tokenization in LLMs. 100% open-source. https://t.co/U6GR2GXhFm\" / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/akshay_pachaar/status/1903426646939718142?t=o8BYTBYD5gE1j4CZFOD3Eg&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387246812862829",
+        "date_last_used": "0",
+        "guid": "3406a884-3e4f-4838-bf2f-b921b2049fdb",
+        "id": "8308",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "GitHub - microsoft/ai-agents-for-beginners: 10 Lessons to Get Started Building AI Agents",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/microsoft/ai-agents-for-beginners",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387246917823005",
+        "date_last_used": "0",
+        "guid": "7f2533cc-e182-459c-91d6-3f2a10a88a5a",
+        "id": "8310",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "VeyraX on X: \"This is gonna change marketing forever MCP for TikTok videos \u2013\u00a0create, schedule and publish in one prompt inside your fav AI Agents via @revid_ai https://t.co/sRvGiybThI\" / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/veyraxai/status/1903596357383856199?t=8MCng7Waho5Hmncc-2Oa2A&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387249285598492",
+        "date_last_used": "0",
+        "guid": "787bc9f7-1b9b-4589-b1ff-5fcc0660215f",
+        "id": "8312",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Revid AI - Ideate, Publish, Go Viral | #1 AI Video Generator",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.revid.ai/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387397126954280",
+        "date_last_used": "0",
+        "guid": "3584bca9-1f4a-48eb-97ad-0fc9b485f51e",
+        "id": "8303",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Stas Bondar \u201925: The Code & Techniques Behind a Next-Level Portfolio | Codrops",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://tympanus.net/codrops/2025/03/25/stas-bondar-25-the-code-techniques-behind-a-next-level-portfolio/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387772124764074",
+        "date_last_used": "0",
+        "guid": "64b9335e-e246-46af-a47b-c58c06845891",
+        "id": "8330",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Fine-tuning Stable Diffusion - Replicate docs",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://replicate.com/docs/guides/stable-diffusion/fine-tuning",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387772279594963",
+        "date_last_used": "0",
+        "guid": "952561fd-5cf1-4850-813d-edb806bf0326",
+        "id": "8331",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "DreamBooth",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://dreambooth.github.io/",
+        "visit_count": 1
       }
     ],
     "date_added": "13379932339895720",
     "date_last_used": "0",
-    "date_modified": "13379933493551417",
+    "date_modified": "13387772279594963",
     "guid": "d8633a05-103d-49c6-8d1f-c8ee64bad1e7",
     "id": "8065",
     "name": "Learning",
@@ -1153,11 +3076,296 @@
         "type": "url",
         "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
         "visit_count": 1
+      },
+      {
+        "date_added": "13381405309271888",
+        "date_last_used": "0",
+        "guid": "c77be829-9e88-40a1-93a1-c1e17f0d5b5d",
+        "id": "8088",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Mistral AI | Frontier AI in your hands",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://mistral.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382103631951856",
+        "date_last_used": "0",
+        "guid": "138abf2a-d9f4-44c1-ba7b-1256e5867878",
+        "id": "8121",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Hyperbolic \u2013 The Open-Access AI Cloud",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.hyperbolic.xyz/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382104046400031",
+        "date_last_used": "0",
+        "guid": "04625dd6-f8a7-4c1b-8bc4-59b52513e80e",
+        "id": "8122",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Hyperbolic AI Dashboard",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://app.hyperbolic.xyz/models/deepseek-r1-zero?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382256162742017",
+        "date_last_used": "0",
+        "guid": "adbf760d-d5f8-4a41-ba86-4a2789d4b8fc",
+        "id": "8129",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "OpenRouter",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://openrouter.ai/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382325470099057",
+        "date_last_used": "0",
+        "guid": "9b80b0ea-b2c8-4013-b779-ad52720bd9f0",
+        "id": "8130",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "LM Studio - Discover, download, and run local LLMs",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://lmstudio.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382415373860145",
+        "date_last_used": "0",
+        "guid": "8909bdf3-9f64-4016-abce-f50dcf1024e7",
+        "id": "8128",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Kimi.ai - AI Assistant by Moonshot AI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://kimi.ai/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382532711469555",
+        "date_last_used": "0",
+        "guid": "7f1a10c2-e330-4b3e-ab9f-26ba53aacee2",
+        "id": "8136",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Qwen (Qwen)",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/Qwen",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382710434514224",
+        "date_last_used": "0",
+        "guid": "56e8f2f6-932f-4267-85e4-1976a4277f1c",
+        "id": "8149",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "DeepSeek R1 is now available on Azure AI Foundry and GitHub | Microsoft Azure Blog",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://azure.microsoft.com/en-us/blog/deepseek-r1-is-now-available-on-azure-ai-foundry-and-github/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382756796709572",
+        "date_last_used": "0",
+        "guid": "aa37d0aa-8d69-4213-bd5f-35574753d7fb",
+        "id": "8151",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Homepage | Cerebras",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://cerebras.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382831857261612",
+        "date_last_used": "0",
+        "guid": "ce7a42f2-221e-49f5-bc7c-17002c913812",
+        "id": "8148",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "DataGemma: AI open models connecting LLMs to Google\u2019s Data Commons",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://blog.google/technology/ai/google-datagemma-ai-llm/?linkId=12740940&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382842782582446",
+        "date_last_used": "0",
+        "guid": "e5267cca-b534-4be3-bc73-cdb0b2bbc07b",
+        "id": "8146",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Abacus.AI - Effortlessly Embed Cutting Edge AI In Your Applications.",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://abacus.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382863192292734",
+        "date_last_used": "0",
+        "guid": "17c81c9d-4ce8-430f-879e-609deffc5133",
+        "id": "8147",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "deepseek-r1 Model by Deepseek-ai | NVIDIA NIM",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://build.nvidia.com/deepseek-ai/deepseek-r1?ncid=ref-inor-385051&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382878231503983",
+        "date_last_used": "0",
+        "guid": "def3a4bf-71af-4d8b-87b9-78dffc2d718f",
+        "id": "8150",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Tulu | Ai2",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://allenai.org/tulu",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382878384441141",
+        "date_last_used": "0",
+        "guid": "9de24936-2207-474c-8717-25bdf8e96902",
+        "id": "8145",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "allenai/Llama-3.1-Tulu-3-405B \u00b7 Hugging Face",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/allenai/Llama-3.1-Tulu-3-405B",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385121237882911",
+        "date_last_used": "0",
+        "guid": "0d81c267-c1bc-4790-8034-660548b6f493",
+        "id": "8193",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Inception Labs",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.inceptionlabs.ai/news?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385681499147108",
+        "date_last_used": "0",
+        "guid": "175ba267-33bc-4647-a1d6-846e17aff2a3",
+        "id": "8219",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Windows Installation | Unsloth Documentation",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://docs.unsloth.ai/get-started/installing-+-updating/windows-installation?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385956929607907",
+        "date_last_used": "0",
+        "guid": "0c2dfb29-4c22-4328-8ff3-7692219fa963",
+        "id": "8238",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Manus",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://manus.im/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386655897952355",
+        "date_last_used": "0",
+        "guid": "c71b1805-ced1-4ed7-a383-30c7f1121207",
+        "id": "8301",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Wen Xin said",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://yiyan.baidu.com/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386982067654144",
+        "date_last_used": "0",
+        "guid": "edf009a8-edda-4eb1-8a7d-1adbee65cb2a",
+        "id": "8300",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Gemma \u2014 gemma",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://gemma-llm.readthedocs.io/en/latest/?s=09",
+        "visit_count": 1
       }
     ],
     "date_added": "13379751946325150",
     "date_last_used": "0",
-    "date_modified": "13379751959676231",
+    "date_modified": "13386982067654144",
     "guid": "d0f5eaa9-d0e9-4f56-826b-b9848d040840",
     "id": "8040",
     "name": "LLM",
@@ -1189,6 +3397,348 @@
     "id": "8000",
     "name": "Meta",
     "source": "extension",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13385717688853191",
+        "date_last_used": "0",
+        "guid": "cbd9d72d-4b42-4c1a-874c-7ebffe32f9e2",
+        "id": "8223",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Composio MCP Server",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://mcp.composio.dev/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385803511449872",
+        "date_last_used": "0",
+        "guid": "2c7b42d3-17d5-4058-80b0-1f7ba8671881",
+        "id": "8235",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Generate MCP servers from your docs",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://mintlify.com/blog/generate-mcp-servers-for-your-docs?utm_source=twitter&utm_medium=social&utm_campaign=mcp-launch&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385809316299703",
+        "date_last_used": "0",
+        "guid": "5efa2a3c-611b-45f7-9b91-8a6d2a5c77e9",
+        "id": "8237",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Mintlify \u2014 The documentation you want, effortlessly",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://mintlify.com/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385811024803294",
+        "date_last_used": "0",
+        "guid": "3cdc2e7b-9abf-4d1c-b6a2-89f97ec67aa0",
+        "id": "8234",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Introducing Model Context Protocol (MCP) | Glama",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://glama.ai/blog/2024-11-25-model-context-protocol-quickstart?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385822988094989",
+        "date_last_used": "0",
+        "guid": "f241201b-5649-42ec-a590-41015da713c0",
+        "id": "8231",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "MCP Server Finder | The Ultimate Model Context Protocol Directory",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.mcpserverfinder.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385823590968709",
+        "date_last_used": "0",
+        "guid": "ce17caa4-9e8e-490c-97aa-e610b37a34df",
+        "id": "8236",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "mendableai/firecrawl-mcp-server: Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/mendableai/firecrawl-mcp-server",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385823718663263",
+        "date_last_used": "0",
+        "guid": "c282b15e-79a8-437d-8289-426ef61110b0",
+        "id": "8232",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Model Context Protocol Server Directory",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://mcpserverdirectory.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385828062431430",
+        "date_last_used": "0",
+        "guid": "f9a7f845-7e38-49e0-860d-a1edbfd915ae",
+        "id": "8233",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "docker/mcp-servers: Model Context Protocol Servers",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/docker/mcp-servers",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386157272038288",
+        "date_last_used": "0",
+        "guid": "664e9b22-ca39-4fa4-a0fd-ea0830a14cf9",
+        "id": "8252",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "What Problem Does The Model Context Protocol Solve?",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.aihero.dev/what-problem-does-model-context-protocol-solve?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386325734253482",
+        "date_last_used": "0",
+        "guid": "ae7c28a4-8943-4acc-9fe2-9ce6cf041845",
+        "id": "8298",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Model context protocol (MCP) | Supabase Docs",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://supabase.com/docs/guides/getting-started/mcp?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386498872059959",
+        "date_last_used": "0",
+        "guid": "44ef4a52-208b-4442-812b-7c7361169416",
+        "id": "8290",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "What is MCP? Integrate AI Agents with Databases & APIs - YouTube",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://m.youtube.com/watch?v=eur8dUO9mvE",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386498984646049",
+        "date_last_used": "0",
+        "guid": "7efdb4b6-9deb-477c-8957-a12f8b22fc40",
+        "id": "8297",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Model Context Protocol (MCP) - Explained - YouTube",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://m.youtube.com/watch?v=sahuZMMXNpI&pp=0gcJCfcAhR29_xXO",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386499017581121",
+        "date_last_used": "0",
+        "guid": "6baaceef-d593-4b13-8bca-bfe2c73ce8ad",
+        "id": "8296",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Build Anything with MCP Agents, Here\u2019s How - YouTube",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://m.youtube.com/watch?v=TQsP_PlCY1I",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386530308456413",
+        "date_last_used": "0",
+        "guid": "82d43fa4-e08d-401c-b04d-8b3a31d4b979",
+        "id": "8292",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Perplexity on X: \"The Perplexity API Model Context Protocol (MCP) is now available. We've built an MCP server for Sonar, giving AI assistants real-time, web search research capabilities. Powered by Perplexity, Claude can now search the web and deliver real-time and accurate insights on demand. https://t.co/TxxkaD9CLt\" / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/perplexity_ai/status/1899849114583765356?t=ILjlECVrYUPlpr_kCd_vBg&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386542931446509",
+        "date_last_used": "0",
+        "guid": "c4beffbe-12d5-47f4-a77d-f456a07496d9",
+        "id": "8295",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Model Context Protocol Tutorial",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.aihero.dev/model-context-protocol-tutorial?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386683746908814",
+        "date_last_used": "0",
+        "guid": "1b03d398-ebc3-4335-8daf-1762aeddc819",
+        "id": "8299",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "jjsantos01/qgis_mcp: Model Context Protocol (MCP) that allows LLMs to use QGIS Desktop",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/jjsantos01/qgis_mcp",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386683873282623",
+        "date_last_used": "0",
+        "guid": "2e2b7bf6-d8fe-4835-9c33-33a8d0f5e42b",
+        "id": "8293",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "ahujasid/blender-mcp",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/ahujasid/blender-mcp",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386832138025267",
+        "date_last_used": "0",
+        "guid": "c53f73cf-2070-4c38-9247-635c1aef53b2",
+        "id": "8294",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Understanding MCP From Scratch - YouTube",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://m.youtube.com/watch?v=CDjjaTALI68",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387364801856198",
+        "date_last_used": "0",
+        "guid": "07c25b6a-92ee-48ec-a19a-1a4908d276f2",
+        "id": "8291",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "microsoft/playwright-mcp: Playwright Tools for MCP",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/microsoft/playwright-mcp",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387540106275678",
+        "date_last_used": "0",
+        "guid": "2b13c332-b0d4-4044-a830-82d6933dda35",
+        "id": "8320",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Build and deploy Remote Model Context Protocol (MCP) servers to Cloudflare",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://blog.cloudflare.com/remote-model-context-protocol-servers-mcp/?utm_campaign=cf_blog&utm_content=20250325&utm_medium=organic_social&utm_source=twitter%2F&s=09/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387605204077735",
+        "date_last_used": "0",
+        "guid": "4b481d2d-ed8a-4765-b858-b6e10431d39b",
+        "id": "8324",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Adam Silverman (Hiring!) \ud83d\udd87\ufe0f on X: \"This has been the biggest week for MCP.\u00a0 I summarized all the MCP announcements/launches from this week below from OpenAI, Zapier, Brex, Camel AI, Telegram, Box, Figma, LiteLLM, Neon, Cursor, Haystack, Fleek, and more! (save for later) https://t.co/09fh5ToSkz\" / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/AtomSilverman/status/1905360596901790132?t=b7NLRh7nbuV6yE-gR4sI4A&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387759179165875",
+        "date_last_used": "0",
+        "guid": "b554f29d-5215-4570-8194-8cadeb169633",
+        "id": "8326",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Shubham Saboo on X: \"10 awesome MCP servers to supercharge your workflows on Claude, Cursor, Cline, and Windsurf. 100% opensource.\" / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/Saboo_Shubham_/status/1905455781761483093?t=XDsb_FIFqal4cotgTBhXQw&s=09",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13385717683951232",
+    "date_last_used": "0",
+    "date_modified": "13387759179165875",
+    "guid": "bf7d8507-2215-489c-a4e4-17eb2fc852dc",
+    "id": "8222",
+    "name": "MCP",
+    "source": "unknown",
     "type": "folder"
   },
   {
@@ -1413,11 +3963,398 @@
         "type": "url",
         "url": "https://scale.com/",
         "visit_count": 1
+      },
+      {
+        "date_added": "13380315093207281",
+        "date_last_used": "0",
+        "guid": "2066c994-71a6-4283-8f83-385b3c7e9b95",
+        "id": "8075",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "brand.ai | your brand OS",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://brand.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381415011164659",
+        "date_last_used": "0",
+        "guid": "b91a422a-5257-48bd-8e27-6b65f4d432f5",
+        "id": "8091",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "MiniMax - Intelligence with everyone",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.minimaxi.com/en",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381638207719442",
+        "date_last_used": "0",
+        "guid": "8938bd2f-dae5-43aa-b54e-4fd263e56762",
+        "id": "8105",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "langwatch/langwatch: The ultimate LLM Ops platform - Monitoring, Analytics, Evaluations, Datasets and Prompt Optimization \u2728",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/langwatch/langwatch",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13382015927993967",
+        "date_last_used": "0",
+        "guid": "5f79f979-19cd-40c3-a64a-f6abede76ba5",
+        "id": "8119",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "steven2358/awesome-generative-ai: A curated list of modern Generative Artificial Intelligence projects and services",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/steven2358/awesome-generative-ai",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383009982153754",
+        "date_last_used": "0",
+        "guid": "b721bd0d-e64b-41f6-af30-a7f445c788cf",
+        "id": "8140",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "GeoSpy | Find a Photo's Location Instantly",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://geospy.ai/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383178599352434",
+        "date_last_used": "0",
+        "guid": "b6c68be0-06d5-489e-82ba-11e89f4d2981",
+        "id": "8158",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Spaces - Hugging Face",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/spaces?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383513900784200",
+        "date_last_used": "0",
+        "guid": "2473c317-c530-46d1-a47f-e690052a6073",
+        "id": "8159",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "ZhengPeng7/BiRefNet_HR \u00b7 Hugging Face",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/ZhengPeng7/BiRefNet_HR?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13384060980963616",
+        "date_last_used": "0",
+        "guid": "d80bb9dc-e583-4ab3-9e03-85cff0082746",
+        "id": "8176",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "microsoft/OmniParser-v2.0 \u00b7 Hugging Face",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/microsoft/OmniParser-v2.0?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13384783003042955",
+        "date_last_used": "0",
+        "guid": "d045e068-2a48-4b7a-943d-6ed8de0fc735",
+        "id": "8182",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "markmap",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://markmap.js.org/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13384832180438016",
+        "date_last_used": "0",
+        "guid": "2eda74ab-74ac-42d1-8738-eed659db7976",
+        "id": "8181",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Kaiber",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://kaiber.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385841864081382",
+        "date_last_used": "0",
+        "guid": "0e9fd363-1c24-4c9c-83d7-b996ff1786f3",
+        "id": "8230",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "clouds / 3D Tiles Renderer Integration - Tokyo \u22c5 Storybook",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://takram-design-engineering.github.io/three-geospatial/?path=/story/clouds-3d-tiles-renderer-integration--tokyo&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386395801473710",
+        "date_last_used": "0",
+        "guid": "4a456efc-b274-4f3c-adac-5a22c86d6324",
+        "id": "8277",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Xmind - Mind Mapping App",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://xmind.app/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386407291024882",
+        "date_last_used": "0",
+        "guid": "f8540673-e9b4-4e20-8cf0-6d947323ce81",
+        "id": "8288",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Same",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://same.dev/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386736987453444",
+        "date_last_used": "0",
+        "guid": "7f5f5daa-e1f5-4888-93ab-52fc0ec7c566",
+        "id": "8256",
+        "name": "RenderNet AI: Bring stories alive with AI Characters",
+        "show_icon": false,
+        "source": "user_copy",
+        "type": "url",
+        "url": "https://rendernet.ai/",
+        "visit_count": 0
+      },
+      {
+        "date_added": "13386665940814277",
+        "date_last_used": "0",
+        "guid": "83f5fb81-e3bc-4862-8f50-e91598630369",
+        "id": "8284",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Sudowrite - Best AI Writing Partner for Fiction",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://sudowrite.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386794239316805",
+        "date_last_used": "0",
+        "guid": "3d47a0fe-9c89-4805-82d3-4acae6fb0ba4",
+        "id": "8281",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "tencent/Hunyuan3D-2mv \u00b7 Hugging Face",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/tencent/Hunyuan3D-2mv?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386794257156620",
+        "date_last_used": "0",
+        "guid": "184e876c-15b4-489f-b005-c312170c48a6",
+        "id": "8276",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "tencent/Hunyuan3D-2mini \u00b7 Hugging Face",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/tencent/Hunyuan3D-2mini?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386804459252204",
+        "date_last_used": "0",
+        "guid": "4f555759-d1cd-4e9b-9f98-f206c6a21b30",
+        "id": "8282",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Gemini Co-Drawing - a Hugging Face Space by Trudy",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/spaces/Trudy/gemini-codrawing?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386987601658604",
+        "date_last_used": "0",
+        "guid": "96e5ea53-5397-4962-8217-0855ae834a20",
+        "id": "8285",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Home | IndexNow.org",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.indexnow.org/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386987756356037",
+        "date_last_used": "0",
+        "guid": "97af67eb-2d05-465a-b5f4-65d7ce314104",
+        "id": "8283",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Exalt Studio",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://exalt-studio.com/?s=09#pricing",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386987809815390",
+        "date_last_used": "0",
+        "guid": "60121a1a-1367-43cd-8869-19a4a467a068",
+        "id": "8286",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Exalt Studio",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://exalt-studio.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387013632070943",
+        "date_last_used": "0",
+        "guid": "6ed3984a-2f88-46a3-a993-da29ed4fc2ff",
+        "id": "8289",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "TensorPix - Enhance Video & Image Quality Online",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://tensorpix.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387094042238819",
+        "date_last_used": "0",
+        "guid": "d264a6c8-6b29-4e05-87a3-8d6ec2776b0c",
+        "id": "8278",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "\ud83d\udcabStarVector Models - a starvector Collection",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/collections/starvector/starvector-models-6783b22c7bd4b43d13cb5289?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387094879890880",
+        "date_last_used": "0",
+        "guid": "c31cfd6b-721b-44a5-b7b9-53f54c77b6a7",
+        "id": "8287",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Next.js Chatbot Template",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://chat.vercel.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387136445321577",
+        "date_last_used": "0",
+        "guid": "c3e20e07-3181-452d-bd23-04d29d4a7f50",
+        "id": "8280",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Untitled Diagram - Page-1",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://app.diagrams.net/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387416533974136",
+        "date_last_used": "0",
+        "guid": "42426afc-ff88-4892-a631-9bb298636b2c",
+        "id": "8279",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Kdenlive - Video Editing Freedom",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://kdenlive.org/en/",
+        "visit_count": 1
       }
     ],
     "date_added": "13379932099728088",
     "date_last_used": "0",
-    "date_modified": "13379933668873446",
+    "date_modified": "13387416533974136",
     "guid": "b1dc0f51-b1fe-4908-b132-a1fb5c1ef7b1",
     "id": "8063",
     "name": "Misc",
@@ -1426,21 +4363,6 @@
   },
   {
     "children": [
-      {
-        "date_added": "13378552854103672",
-        "date_last_used": "0",
-        "guid": "26d0e010-cae4-40a9-a5ac-d4cfe3fa626e",
-        "id": "7981",
-        "meta_info": {
-          "power_bookmark_meta": ""
-        },
-        "name": "unwind ai | Latest AI news, tools and tutorials for AI Developers",
-        "show_icon": false,
-        "source": "sync",
-        "type": "url",
-        "url": "https://www.theunwindai.com/?s=09",
-        "visit_count": 1
-      },
       {
         "date_added": "13378452967660769",
         "date_last_used": "0",
@@ -1497,11 +4419,41 @@
         "type": "url",
         "url": "https://www.therundown.ai/",
         "visit_count": 1
+      },
+      {
+        "date_added": "13385247586304260",
+        "date_last_used": "0",
+        "guid": "68b0672d-05fa-4787-a288-0a5d385c68d8",
+        "id": "8197",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "unwind ai",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.theunwindai.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385433274915187",
+        "date_last_used": "0",
+        "guid": "4c69c6ee-52c8-4e40-8ee7-363647587459",
+        "id": "8201",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "LLM Watch | Pascal Biese | Substack",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.llmwatch.com/",
+        "visit_count": 1
       }
     ],
     "date_added": "13378966209804779",
     "date_last_used": "0",
-    "date_modified": "13379930607172021",
+    "date_modified": "13385433274915187",
     "guid": "308e64d8-ee67-45a8-8b02-0fade7573d72",
     "id": "8010",
     "name": "Newsletters",
@@ -1590,6 +4542,33 @@
     "id": "7999",
     "name": "OpenAI",
     "source": "extension",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13385679497738972",
+        "date_last_used": "0",
+        "guid": "1de23935-0c4f-41b9-b684-eff5648747f7",
+        "id": "8218",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Polar \u2014 The best monetization platform for developers | Polar",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://polar.sh/?s=09",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13385679489321439",
+    "date_last_used": "0",
+    "date_modified": "13385679497738972",
+    "guid": "e6d5bdec-244e-4d2a-bccb-90cdedb4579e",
+    "id": "8217",
+    "name": "Payments",
+    "source": "unknown",
     "type": "folder"
   },
   {
@@ -1695,11 +4674,56 @@
         "type": "url",
         "url": "https://www.hedra.com/",
         "visit_count": 1
+      },
+      {
+        "date_added": "13385632844854142",
+        "date_last_used": "0",
+        "guid": "32b31aa1-bae7-49b2-8ab0-e6d55b229b83",
+        "id": "8216",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Pickle - Your AI body double in zoom calls",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://getpickle.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385728733764373",
+        "date_last_used": "0",
+        "guid": "eec98415-e573-4edc-aa2e-5ba355d8a6f5",
+        "id": "8227",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Faceless.so | Full-stack faceless videos generator",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://faceless.so/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386794576204891",
+        "date_last_used": "0",
+        "guid": "aac3f647-e536-418d-bb7e-66bb75877d74",
+        "id": "8269",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "sync. an AI video lipsync tool for creators",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://sync.so/?s=09",
+        "visit_count": 1
       }
     ],
     "date_added": "13378963478220076",
     "date_last_used": "0",
-    "date_modified": "13379752578516625",
+    "date_modified": "13386794576204891",
     "guid": "810dbb58-9c5d-47c9-95d8-f3a630587d4b",
     "id": "8004",
     "name": "Podcast",
@@ -1781,6 +4805,93 @@
     "id": "8068",
     "name": "Tools",
     "source": "extension",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13381636368406952",
+        "date_last_used": "0",
+        "guid": "6ff18304-f7ec-4e81-95cc-a686d1404dd1",
+        "id": "8100",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Mindrift.ai: Be the \u201cI\u201d in AI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://mindrift.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381636414817342",
+        "date_last_used": "0",
+        "guid": "d36251d9-44a3-4ad8-83b4-f37a15de38ec",
+        "id": "8101",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "AI Tutor for Homework Help, Test Prep and Language Learning",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.tutorocean.com/ai",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381636441700672",
+        "date_last_used": "0",
+        "guid": "97e3c371-c187-4010-aee1-c406a21bb200",
+        "id": "8102",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Khanmigo for learners: Always-available tutor, powered by AI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.khanmigo.ai/learners",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381636476362055",
+        "date_last_used": "0",
+        "guid": "7b031268-67be-48d8-9d94-0602a4a10de4",
+        "id": "8103",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Monster Quest | AI tutor The No.1 Homework Finishing Free App",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.ai-tutor.app/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13381636503004126",
+        "date_last_used": "0",
+        "guid": "b17f288e-1de0-45db-96f5-2c3759a9928e",
+        "id": "8104",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "The Transformative Power of AI-Enhanced High-Dose Tutoring | NORC at the University of Chicago",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.norc.org/research/library/unlocking-hearts-and-minds-transformative-power-of-ai-enhanced-high-dose-tutoring.html",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13381636351615374",
+    "date_last_used": "0",
+    "date_modified": "13381636503004126",
+    "guid": "61b3e382-96c4-4d9e-b2c2-552a971d8a17",
+    "id": "8099",
+    "name": "Tutoring",
+    "source": "unknown",
     "type": "folder"
   },
   {
@@ -2033,15 +5144,420 @@
         "type": "url",
         "url": "https://labs.google/fx/tools/video-fx",
         "visit_count": 0
+      },
+      {
+        "date_added": "13382249481460714",
+        "date_last_used": "0",
+        "guid": "f85b1307-9baf-4499-8969-b5ac445dec5d",
+        "id": "8127",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Video Depth Anything - a Hugging Face Space by depth-anything",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/spaces/depth-anything/Video-Depth-Anything?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383004919192731",
+        "date_last_used": "0",
+        "guid": "a755637d-962f-40e3-8146-a9239845087a",
+        "id": "8139",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Definitive Guide to Every Type of Camera Movement in Film",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.studiobinder.com/blog/different-types-of-camera-movements-in-film/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383146200834330",
+        "date_last_used": "0",
+        "guid": "85cbb444-97bd-4600-b0e2-f13c018cdd40",
+        "id": "8142",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "deepseek-ai/Janus-Pro-1B \u00b7 Hugging Face",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://huggingface.co/deepseek-ai/Janus-Pro-1B",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383222989440489",
+        "date_last_used": "0",
+        "guid": "d50bc71e-9757-4b39-b44d-e3930228fd0b",
+        "id": "8154",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "MatAnyone for Human Video Matting",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://pq-yang.github.io/projects/MatAnyone/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383486541186097",
+        "date_last_used": "0",
+        "guid": "83ac986b-c3ef-474b-99c8-b94f3be20652",
+        "id": "8155",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Dreamina: Free AI Image Generator - Create Art & Images from Text",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://dreamina.capcut.com/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13383878070155484",
+        "date_last_used": "0",
+        "guid": "bb22878a-2ad0-43ed-8dba-aa077de7cbd1",
+        "id": "8167",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "AI video generator - Adobe Firefly",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.adobe.com/products/firefly/features/ai-video-generator.html",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13384061067636872",
+        "date_last_used": "0",
+        "guid": "f9392d6a-76ba-494f-96a2-c43352b0dd42",
+        "id": "8177",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Animate Anyone 2",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://humanaigc.github.io/animate-anyone-2/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385076085997546",
+        "date_last_used": "0",
+        "guid": "d62eb966-131e-4d06-b2e1-d54c9fa9dedb",
+        "id": "8192",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Nim \u00b7 The ultimate app for AI video production",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://nim.video/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385200587498038",
+        "date_last_used": "0",
+        "guid": "6b1e8cc3-285f-4a88-923d-871dc50e5aac",
+        "id": "8195",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Captions | Your AI-powered creative studio",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.captions.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386379730092754",
+        "date_last_used": "0",
+        "guid": "a1cd9785-575a-4ba7-93e1-14eb1e8cb2e8",
+        "id": "8275",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Train \u2013 ostris/wan-lora-trainer:9e604738 \u2013\u00a0Replicate",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://replicate.com/ostris/wan-lora-trainer/train?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386981382998181",
+        "date_last_used": "0",
+        "guid": "a518572c-ed82-4c95-b20f-dada03e1f7a4",
+        "id": "8273",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "SkyReels\uff5cVisualize Your Story",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.skyreels.ai/home",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387058284793768",
+        "date_last_used": "0",
+        "guid": "a337ad5d-3215-4a0f-8f72-dcc144328e56",
+        "id": "8274",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "FLORA \u00a9",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.florafauna.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387094535220262",
+        "date_last_used": "0",
+        "guid": "dfaa5e61-c87c-4451-805d-71e403b40cd6",
+        "id": "8271",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "KREA AI on X: \"introducing Video Training, a new level of control for AI video generation. now you can train Wan 2.1 with your own videos and have it learn custom styles, motions, or objects. here's how it works \ud83d\udc47 https://t.co/ujD6goHgh9\" / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/krea_ai/status/1902722055759671505?t=fhKBbV-yJQmFLzOijT0UcQ&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387309893324015",
+        "date_last_used": "0",
+        "guid": "24a8ff31-1293-44bc-a8f4-486c8e7ab6f2",
+        "id": "8272",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Clone Yourself With the Best AI Video Generator",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://thetwinai.com/",
+        "visit_count": 1
       }
     ],
     "date_added": "13378963381811640",
     "date_last_used": "0",
-    "date_modified": "13379932444370196",
+    "date_modified": "13387309893324015",
     "guid": "ad60e53a-7d18-48f5-9406-5c3b35522699",
     "id": "8002",
     "name": "Video Generation",
     "source": "extension",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13385448433790618",
+        "date_last_used": "0",
+        "guid": "9281770b-2819-4ecc-a297-b216dee31b13",
+        "id": "8203",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Deploy a Node.js application on AWS Elastic Beanstalk - YouTube",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://m.youtube.com/watch?v=dWfng4qJYMU",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385448861471219",
+        "date_last_used": "0",
+        "guid": "0d4d7688-7b93-44eb-af3d-c08aca3e0ccf",
+        "id": "8204",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Easily Deploy Full Stack Node.js Apps on AWS EC2 | Step-by-Step Tutorial - YouTube",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://m.youtube.com/watch?v=nQdyiK7-VlQ",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385450076129673",
+        "date_last_used": "0",
+        "guid": "42db82c1-3edb-4f1e-8278-86b87be680a0",
+        "id": "8205",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "AWS Elastic Beanstalk: The EASIEST Way to Deploy NodeJS Apps - YouTube",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://m.youtube.com/watch?v=b4PaZo-fMqk",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13385450195125933",
+        "date_last_used": "0",
+        "guid": "2f93641b-dab3-4932-b91e-787c67695f43",
+        "id": "8206",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "AWS Elastic Beanstalk Deployment | For Absolute Beginners | Hands-On - YouTube",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://m.youtube.com/watch?v=aTQbyBUNoms",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13385448425890719",
+    "date_last_used": "0",
+    "date_modified": "13385450195125933",
+    "guid": "6eeea246-ec3e-4f16-87f3-913d3d41ad7d",
+    "id": "8202",
+    "name": "Videos",
+    "source": "unknown",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13386499643593359",
+        "date_last_used": "0",
+        "guid": "9653bb72-d22e-4d95-80f1-7bedb74fcce3",
+        "id": "8266",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Neon Serverless Postgres \u2014 Ship faster",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://neon.tech/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386499818994973",
+        "date_last_used": "0",
+        "guid": "fa2ff984-db5b-47c9-be8e-e47bb5a5f0dc",
+        "id": "8265",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Supabase | The Open Source Firebase Alternative",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://supabase.com/",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13386499634593687",
+    "date_last_used": "0",
+    "date_modified": "13386499818994973",
+    "guid": "8ca02409-9284-4d54-82b6-4e5b2dd880ae",
+    "id": "8264",
+    "name": "Database",
+    "source": "unknown",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13386648152020830",
+        "date_last_used": "0",
+        "guid": "ee7a628e-4fea-4fb4-b1c0-507e1aacfd13",
+        "id": "8263",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Spatial without Compromise \u00b7 QGIS Web Site",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://qgis.org/",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13386648144382038",
+    "date_last_used": "0",
+    "date_modified": "13386648152020830",
+    "guid": "43e9b1f1-808d-4943-b07c-2e8c48da9706",
+    "id": "8262",
+    "name": "Mapping",
+    "source": "unknown",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13386752106015510",
+        "date_last_used": "0",
+        "guid": "dd93ef34-d423-4623-a4c8-db39845162be",
+        "id": "8268",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Tune Gemini models by using supervised fine-tuning \u00a0|\u00a0 Generative AI \u00a0|\u00a0 Google Cloud",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini-use-supervised-tuning?s=09",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13386752098508560",
+    "date_last_used": "0",
+    "date_modified": "13386752106015510",
+    "guid": "e56ec04e-cb0e-4a4c-9568-1f74ced05cb6",
+    "id": "8267",
+    "name": "Training",
+    "source": "unknown",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13387782705553853",
+        "date_last_used": "0",
+        "guid": "301a8a96-329b-46f8-8097-6c52a17ee16f",
+        "id": "8333",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "List of the 40 Best AI Image Generators & Drawings | 2025 | Aixploria",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.aixploria.com/en/category/image-ai-en/",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13387782697448802",
+    "date_last_used": "0",
+    "date_modified": "13387782705553853",
+    "guid": "3a790fbb-af90-4011-9d4d-550f7b278a68",
+    "id": "8332",
+    "name": "Lists",
+    "source": "unknown",
     "type": "folder"
   }
 ]

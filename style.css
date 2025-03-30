@@ -30,6 +30,16 @@ h1 {
   margin-top: 20px;
 }
 
+.title {
+  display: flex;
+  font-size: 40px;
+  font-weight: 800;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #fff;
+}
+
 #bookmarks-container {
   max-width: 1200px;
   margin: 0 auto;
