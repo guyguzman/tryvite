@@ -365,11 +365,41 @@
         "type": "url",
         "url": "https://www.ai-sesame.com/",
         "visit_count": 1
+      },
+      {
+        "date_added": "13387880404130420",
+        "date_last_used": "0",
+        "guid": "042a7848-57ba-44f7-952f-a127444287f5",
+        "id": "8340",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Mureka",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.mureka.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387942892524110",
+        "date_last_used": "0",
+        "guid": "874735be-fcc7-4257-b17e-e20d84069649",
+        "id": "8344",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "ConversationRelay Application and Architecture for Voice AI Applications Built on AWS | Twilio",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.twilio.com/en-us/blog/conversation-relay-aws-reference-architecture",
+        "visit_count": 1
       }
     ],
     "date_added": "13378963303083673",
     "date_last_used": "0",
-    "date_modified": "13387715652182348",
+    "date_modified": "13387942892524110",
     "guid": "6961c632-e675-46a5-957b-2b2f1df5103b",
     "id": "8001",
     "name": "Audio",
@@ -1534,11 +1564,26 @@
         "type": "url",
         "url": "https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview?s=09",
         "visit_count": 1
+      },
+      {
+        "date_added": "13388018798016881",
+        "date_last_used": "0",
+        "guid": "f656928b-5258-44b0-bf93-1b99289afb34",
+        "id": "8347",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "aws/nova-act: Amazon Nova Act is a research preview of a new AI model for developers to build agents that take actions in web browsers",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/aws/nova-act",
+        "visit_count": 1
       }
     ],
     "date_added": "13378963570179737",
     "date_last_used": "0",
-    "date_modified": "13387497366414166",
+    "date_modified": "13388018798016881",
     "guid": "f1e5237e-a6cd-4414-bdc3-b83a950a13c6",
     "id": "8007",
     "name": "Development",
@@ -1816,11 +1861,26 @@
         "type": "url",
         "url": "https://console.cloud.google.com/vertex-ai/studio?hl=en&pli=1&project=mmpgeo-149501",
         "visit_count": 1
+      },
+      {
+        "date_added": "13387953200541519",
+        "date_last_used": "0",
+        "guid": "c7dd209c-3521-41ad-885f-98d8dfbf7927",
+        "id": "8345",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Google AI Developers on X: \"\ud83d\udd16 Bookmark this thread to start building with the latest Gemini models, including Gemini 2.5 Pro \u2193\" / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/googleaidevs/status/1906692960680337810?t=trhyY20sT7lMdK3sSonIew&s=09",
+        "visit_count": 1
       }
     ],
     "date_added": "13378963268404328",
     "date_last_used": "0",
-    "date_modified": "13381375385770785",
+    "date_modified": "13387953200541519",
     "guid": "31b7be0b-b6fb-4c68-aeb3-5107795250fb",
     "id": "7998",
     "name": "Google",
@@ -2026,11 +2086,56 @@
         "type": "url",
         "url": "https://stability.ai/",
         "visit_count": 0
+      },
+      {
+        "date_added": "13387874882108795",
+        "date_last_used": "0",
+        "guid": "a5673a3e-2989-41f6-ae51-eb48b8e54730",
+        "id": "8339",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Midlibrary: Midjourney AI Styles & SREF Codes Library. Midjourney Guides + Tools",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://midlibrary.io/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387880584123385",
+        "date_last_used": "0",
+        "guid": "f4216e71-c312-4828-bd5d-c100ed294b40",
+        "id": "8341",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Jarred on X: \"How to generate consistent ad formats: 1. Ask chatgpt for JSON for ads 2. Start a chat, attach your product and JSON and prompt it to \"generate an image of an ad following the JSON instructions\" 3. Tweak and refine 4. Print consistent ads every time https://t.co/XgF7gs28LQ\" / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/pm8jarred/status/1906346504308293677?t=okm5qk_1UOPYOKBGMruTXQ&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387881114805069",
+        "date_last_used": "0",
+        "guid": "f81f1ede-efdc-4620-8603-50ef730a43dd",
+        "id": "8342",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Ege on X: \"GPT4o is literally cooked \ud83d\udd25\ud83d\udc68\u200d\ud83c\udf73 Visual recipes are here and they\u2019re actually kinda genius! Prompt in ALT https://t.co/f0v7IwXJfJ\" / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/egeberkina/status/1906088423988875617",
+        "visit_count": 1
       }
     ],
     "date_added": "13378963547075873",
     "date_last_used": "0",
-    "date_modified": "13387765085160311",
+    "date_modified": "13387881114805069",
     "guid": "8f899e14-ca07-4cd6-8cd2-d37a23f575ef",
     "id": "8006",
     "name": "Image Generation",
@@ -3049,11 +3154,86 @@
         "type": "url",
         "url": "https://dreambooth.github.io/",
         "visit_count": 1
+      },
+      {
+        "date_added": "13387871329149059",
+        "date_last_used": "0",
+        "guid": "4f3cff60-d843-48ec-95cc-90f6a68cdb4a",
+        "id": "8336",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "victor-explore/AI-Content-Creators: Directory of the most valuable AI content creators on YouTube, categorized by specialty.",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/victor-explore/AI-Content-Creators",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387871396504438",
+        "date_last_used": "0",
+        "guid": "cbd0657d-d891-43e5-9bce-dd518351bcfe",
+        "id": "8337",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "victor-explore/Machine-Learning-Library: A comprehensive, curated collection of resources for learning Machine Learning, Deep Learning, and AI",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/victor-explore/Machine-Learning-Library",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387873244838095",
+        "date_last_used": "0",
+        "guid": "698b066c-e712-47d6-a8fd-82d2bc8310d6",
+        "id": "8338",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "gemini-samples/examples/gemini-mcp-example.ipynb at main \u00b7 philschmid/gemini-samples",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/philschmid/gemini-samples/blob/main/examples%2Fgemini-mcp-example.ipynb",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388010212998136",
+        "date_last_used": "0",
+        "guid": "a6d56a0f-1e9d-4383-9312-0c54867aa778",
+        "id": "8346",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "MoCha: Towards Movie-Grade Talking Character Synthesis",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://congwei1230.github.io/MoCha/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388022692753683",
+        "date_last_used": "0",
+        "guid": "bac903fe-1aee-4742-a948-d37b908da851",
+        "id": "8348",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "afshinea/stanford-cme-295-transformers-large-language-models: VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/afshinea/stanford-cme-295-transformers-large-language-models",
+        "visit_count": 1
       }
     ],
     "date_added": "13379932339895720",
     "date_last_used": "0",
-    "date_modified": "13387772279594963",
+    "date_modified": "13388022692753683",
     "guid": "d8633a05-103d-49c6-8d1f-c8ee64bad1e7",
     "id": "8065",
     "name": "Learning",
@@ -3730,11 +3910,41 @@
         "type": "url",
         "url": "https://x.com/Saboo_Shubham_/status/1905455781761483093?t=XDsb_FIFqal4cotgTBhXQw&s=09",
         "visit_count": 1
+      },
+      {
+        "date_added": "13387831469388813",
+        "date_last_used": "0",
+        "guid": "d753167c-b456-48f9-afe8-0bb7e9fb2989",
+        "id": "8334",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Jerry Liu on X: \"RAG 2.0 is really about grounding general purpose agents in proprietary enterprise context. Instead of simply one-shot answering a simple question, the agent can decide how to interleave retrieval with other tools to take way more actions + generate way more sophisticated https://t.co/1Qin1Vyo1k\" / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/jerryjliu0/status/1905341991141212184?t=yCYUZwUUoeAUjqEb6GwSeA&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13387831950004263",
+        "date_last_used": "0",
+        "guid": "07e556fe-cb13-4aa4-82ee-8b814136d84f",
+        "id": "8335",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "browserbase/mcp-server-browserbase: Allow LLMs to control a browser with Browserbase and Stagehand",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/browserbase/mcp-server-browserbase",
+        "visit_count": 1
       }
     ],
     "date_added": "13385717683951232",
     "date_last_used": "0",
-    "date_modified": "13387759179165875",
+    "date_modified": "13387831950004263",
     "guid": "bf7d8507-2215-489c-a4e4-17eb2fc852dc",
     "id": "8222",
     "name": "MCP",
@@ -5354,11 +5564,26 @@
         "type": "url",
         "url": "https://thetwinai.com/",
         "visit_count": 1
+      },
+      {
+        "date_added": "13387925393786427",
+        "date_last_used": "0",
+        "guid": "8cd99431-e8ff-49e8-9994-11a164b65a7f",
+        "id": "8343",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Higgsfield",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://higgsfield.ai/",
+        "visit_count": 1
       }
     ],
     "date_added": "13378963381811640",
     "date_last_used": "0",
-    "date_modified": "13387309893324015",
+    "date_modified": "13387925393786427",
     "guid": "ad60e53a-7d18-48f5-9406-5c3b35522699",
     "id": "8002",
     "name": "Video Generation",
