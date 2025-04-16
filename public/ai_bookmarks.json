@@ -132,11 +132,26 @@
         "type": "url",
         "url": "https://marketplace.agen.cy/home",
         "visit_count": 1
+      },
+      {
+        "date_added": "13388710656764150",
+        "date_last_used": "0",
+        "guid": "8273be12-f74f-4d57-a45c-b08de81be439",
+        "id": "8360",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "google/adk-python: An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/google/adk-python",
+        "visit_count": 1
       }
     ],
     "date_added": "13378966239820299",
     "date_last_used": "0",
-    "date_modified": "13381641792137976",
+    "date_modified": "13388710656764150",
     "guid": "d977bd91-ed8a-4248-89eb-48e53973d9e5",
     "id": "8011",
     "name": "Agents",
@@ -144,10 +159,26 @@
     "type": "folder"
   },
   {
-    "children": [],
+    "children": [
+      {
+        "date_added": "13388623007521132",
+        "date_last_used": "0",
+        "guid": "00f846f4-34aa-4fb4-882f-fa6ff845c5fb",
+        "id": "8355",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Cloudflare Agents",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://agents.cloudflare.com/?s=09",
+        "visit_count": 1
+      }
+    ],
     "date_added": "13378963398820570",
     "date_last_used": "0",
-    "date_modified": "13378963398820570",
+    "date_modified": "13388623007521132",
     "guid": "216653b9-7237-4a5d-ad29-7c019f3054bb",
     "id": "8003",
     "name": "AI Agents",
@@ -395,11 +426,23 @@
         "type": "url",
         "url": "https://www.twilio.com/en-us/blog/conversation-relay-aws-reference-architecture",
         "visit_count": 1
+      },
+      {
+        "date_added": "13388870016806752",
+        "date_last_used": "0",
+        "guid": "871672cc-87b9-4f66-b4a6-e691ac09d040",
+        "id": "8378",
+        "name": "Gabber - Realtime AI voice, text, memory, and tool-calling",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://gabber.dev/?s=09",
+        "visit_count": 1
       }
     ],
     "date_added": "13378963303083673",
     "date_last_used": "0",
-    "date_modified": "13387942892524110",
+    "date_modified": "13388870016806752",
     "guid": "6961c632-e675-46a5-957b-2b2f1df5103b",
     "id": "8001",
     "name": "Audio",
@@ -904,6 +947,48 @@
     "id": "8066",
     "name": "Data",
     "source": "extension",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13386499643593359",
+        "date_last_used": "0",
+        "guid": "9653bb72-d22e-4d95-80f1-7bedb74fcce3",
+        "id": "8266",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Neon Serverless Postgres \u2014 Ship faster",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://neon.tech/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13386499818994973",
+        "date_last_used": "0",
+        "guid": "fa2ff984-db5b-47c9-be8e-e47bb5a5f0dc",
+        "id": "8265",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Supabase | The Open Source Firebase Alternative",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://supabase.com/",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13386499634593687",
+    "date_last_used": "0",
+    "date_modified": "13386499818994973",
+    "guid": "8ca02409-9284-4d54-82b6-4e5b2dd880ae",
+    "id": "8264",
+    "name": "Database",
+    "source": "unknown",
     "type": "folder"
   },
   {
@@ -1579,11 +1664,260 @@
         "type": "url",
         "url": "https://github.com/aws/nova-act",
         "visit_count": 1
+      },
+      {
+        "date_added": "13388135700958210",
+        "date_last_used": "0",
+        "guid": "508b7792-c605-4660-b9ae-f03fef79420c",
+        "id": "8349",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Augment Code \u2013 Developer AI for real work",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.augmentcode.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388370664236797",
+        "date_last_used": "0",
+        "guid": "89268971-bef0-4a85-929b-5596a3ee8fee",
+        "id": "8367",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Use agent mode in VS Code",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388570346731322",
+        "date_last_used": "0",
+        "guid": "aac72f9b-efff-4ad3-9b62-0d8cb488ddf0",
+        "id": "8373",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Rive \u2014 a new way to design, build, and ship user interfaces",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://rive.app/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388612838424058",
+        "date_last_used": "0",
+        "guid": "99a2efda-26c1-48ae-8506-9c073bb24531",
+        "id": "8370",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Flexbox Labs",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://flexboxlabs.netlify.app/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388613012195248",
+        "date_last_used": "0",
+        "guid": "6e7d0539-c0ae-4f19-9d29-48bb6f98bfab",
+        "id": "8369",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Page not found - Marko Denic - Web Developer",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://markodenic.com/css-generators/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388613053333024",
+        "date_last_used": "0",
+        "guid": "1ee32917-276c-4d1f-b418-ec7d815f3515",
+        "id": "8368",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "prazzon/Flexbox-Labs: A web app for creating flexible layouts with the power of CSS Flexbox.",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/prazzon/Flexbox-Labs",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388660889340626",
+        "date_last_used": "0",
+        "guid": "f984d8a0-cf6e-46eb-b6fe-aa4f701add3f",
+        "id": "8372",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Your frontend, backend, and database \u2014 now in one Cloudflare Worker",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://blog.cloudflare.com/full-stack-development-on-cloudflare-workers/?utm_campaign=cf_blog&utm_content=20250408&utm_medium=organic_social&utm_source=twitter%2F&s=09/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388710830856806",
+        "date_last_used": "0",
+        "guid": "8974e3a7-e0ed-4d3b-9180-09ea0e18ce9a",
+        "id": "8374",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Firebase Studio",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://firebase.google.com/docs/studio",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388710987475679",
+        "date_last_used": "0",
+        "guid": "1db1e2c7-d3fa-4dd0-afd9-7130fc448043",
+        "id": "8366",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Firebase Studio",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://firebase.studio/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388712476132935",
+        "date_last_used": "0",
+        "guid": "cb8e1312-f608-42af-af3d-630f737597a3",
+        "id": "8365",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "E-sign DOCX files with custom stamp signatures in C# - DEV Community",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://dev.to/shahzad_ashraf_5ea18e2b2d/e-sign-docx-files-with-custom-stamp-signatures-in-c-1p20?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388718824614335",
+        "date_last_used": "0",
+        "guid": "b90fc5cc-8f17-4672-8b57-9bd9491db336",
+        "id": "8371",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Use MCP servers in VS Code (Preview)",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://code.visualstudio.com/docs/copilot/chat/mcp-servers",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388798584858791",
+        "date_last_used": "0",
+        "guid": "cc09d368-47df-4875-8d3e-1fa8a2110420",
+        "id": "8393",
+        "name": "Agent Development Kit",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://google.github.io/adk-docs/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388798682480404",
+        "date_last_used": "0",
+        "guid": "652a75e8-e528-4999-9792-1c2da6883e6f",
+        "id": "8391",
+        "name": "Announcing the Agent2Agent Protocol (A2A) - Google Developers Blog",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388798937569833",
+        "date_last_used": "0",
+        "guid": "9885663a-ef76-408a-9bbf-339d51f99102",
+        "id": "8392",
+        "name": "Solutions \u2013 Authentication \u2013 Google Cloud console",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://console.cloud.google.com/products/solutions/details/generative-ai-rag?hl=en&invt=Abua2Q&project=authentication-451807",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388811849707136",
+        "date_last_used": "0",
+        "guid": "0aaf2f04-a810-4483-b3cf-29d007e0a260",
+        "id": "8388",
+        "name": "AuthKit by WorkOS",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.authkit.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388812168234055",
+        "date_last_used": "0",
+        "guid": "044253d0-6cbf-45d1-9c26-249823ea21eb",
+        "id": "8390",
+        "name": "Getting started \u2013 Radix Themes",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.radix-ui.com/themes/docs/overview/getting-started",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388860790246712",
+        "date_last_used": "0",
+        "guid": "b89f11fd-0c4f-4445-9317-51af93a6251a",
+        "id": "8389",
+        "name": "WorkOS \u2014 Your app, Enterprise Ready.",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://workos.com/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388883395816800",
+        "date_last_used": "0",
+        "guid": "fa29fb09-8eec-42e8-9091-1c2c1adb8d74",
+        "id": "8387",
+        "name": "SqlServer.Rules/tools/SqlAnalyzerCli at master \u00b7 ErikEJ/SqlServer.Rules",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/ErikEJ/SqlServer.Rules/tree/master/tools%2FSqlAnalyzerCli",
+        "visit_count": 1
       }
     ],
     "date_added": "13378963570179737",
     "date_last_used": "0",
-    "date_modified": "13388018798016881",
+    "date_modified": "13388883395816800",
     "guid": "f1e5237e-a6cd-4414-bdc3-b83a950a13c6",
     "id": "8007",
     "name": "Development",
@@ -2131,11 +2465,59 @@
         "type": "url",
         "url": "https://x.com/egeberkina/status/1906088423988875617",
         "visit_count": 1
+      },
+      {
+        "date_added": "13388800431105712",
+        "date_last_used": "0",
+        "guid": "9b4f32aa-c73c-4517-98f1-11ce5d5ecebd",
+        "id": "8382",
+        "name": "Imagen prompt guide \u00a0|\u00a0 Gemini API \u00a0|\u00a0 Google AI for Developers",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://ai.google.dev/gemini-api/docs/imagen-prompt-guide",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388800583874739",
+        "date_last_used": "0",
+        "guid": "671b9304-e973-41cf-90e8-c1a6d2061bf9",
+        "id": "8381",
+        "name": "Best 100 Stable Diffusion Prompts: The Most Beautiful AI Text-to-Image Prompts | Metaverse Post",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://mpost.io/best-100-stable-diffusion-prompts-the-most-beautiful-ai-text-to-image-prompts/#best-ai-portrait-prompts",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388800685246353",
+        "date_last_used": "0",
+        "guid": "13ac169d-282f-44d6-89f8-5130fa104360",
+        "id": "8380",
+        "name": "50 creative AI prompts for background images | Photoroom",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.photoroom.com/blog/create-ai-prompts",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388800804060971",
+        "date_last_used": "0",
+        "guid": "59a1b213-6ad2-4cb4-89ea-50ce0abca9b9",
+        "id": "8379",
+        "name": "Image Prompt: Turn Your Ideas Into Perfect AI Art",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://imageprompt.org/",
+        "visit_count": 1
       }
     ],
     "date_added": "13378963547075873",
     "date_last_used": "0",
-    "date_modified": "13387881114805069",
+    "date_modified": "13388800804060971",
     "guid": "8f899e14-ca07-4cd6-8cd2-d37a23f575ef",
     "id": "8006",
     "name": "Image Generation",
@@ -3229,15 +3611,102 @@
         "type": "url",
         "url": "https://github.com/afshinea/stanford-cme-295-transformers-large-language-models",
         "visit_count": 1
+      },
+      {
+        "date_added": "13388799954720596",
+        "date_last_used": "0",
+        "guid": "8d6647d9-399c-44e0-bc5e-1898870cba61",
+        "id": "8385",
+        "name": "Think Python \u2014 Think Python",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://allendowney.github.io/ThinkPython/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388909606133548",
+        "date_last_used": "0",
+        "guid": "40fbd442-76b2-4b5c-844a-e4715273e2e2",
+        "id": "8386",
+        "name": "Understanding RAG Part IX: Fine-Tuning LLMs for RAG - MachineLearningMastery.com",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://machinelearningmastery.com/understanding-rag-part-ix-fine-tuning-llms-for-rag/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388959276183637",
+        "date_last_used": "0",
+        "guid": "e80117b9-1aba-4828-9742-7c6c80a8c9f5",
+        "id": "8396",
+        "name": "Introducing AutoRAG: fully managed Retrieval-Augmented Generation on Cloudflare",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://blog.cloudflare.com/introducing-autorag-on-cloudflare/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13389193806030264",
+        "date_last_used": "0",
+        "guid": "799a48b4-ffd5-4855-abfb-caa5b0400abf",
+        "id": "8399",
+        "name": "alphaXiv on X: \"Introducing GPT-4.1 for understanding arXiv papers \ud83d\ude80 Highlight any section of a paper to ask questions and \u201c@\u201d other papers to quickly add to context and compare results, benchmarks, etc. https://t.co/wsQ83Q6Awh\" / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/askalphaxiv/status/1911861670290575743?t=2sVKK6A2zFbWnvyVyVv6ig&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13389205754302654",
+        "date_last_used": "0",
+        "guid": "09618737-3f50-4ab7-9a41-01eb15632495",
+        "id": "8400",
+        "name": "GPT 4.1 Prompting Guide | OpenAI Cookbook",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://cookbook.openai.com/examples/gpt4-1_prompting_guide?s=09",
+        "visit_count": 1
       }
     ],
     "date_added": "13379932339895720",
     "date_last_used": "0",
-    "date_modified": "13388022692753683",
+    "date_modified": "13389205754302654",
     "guid": "d8633a05-103d-49c6-8d1f-c8ee64bad1e7",
     "id": "8065",
     "name": "Learning",
     "source": "extension",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13387782705553853",
+        "date_last_used": "0",
+        "guid": "301a8a96-329b-46f8-8097-6c52a17ee16f",
+        "id": "8333",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "List of the 40 Best AI Image Generators & Drawings | 2025 | Aixploria",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.aixploria.com/en/category/image-ai-en/",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13387782697448802",
+    "date_last_used": "0",
+    "date_modified": "13387782705553853",
+    "guid": "3a790fbb-af90-4011-9d4d-550f7b278a68",
+    "id": "8332",
+    "name": "Lists",
+    "source": "unknown",
     "type": "folder"
   },
   {
@@ -3550,6 +4019,33 @@
     "id": "8040",
     "name": "LLM",
     "source": "extension",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13386648152020830",
+        "date_last_used": "0",
+        "guid": "ee7a628e-4fea-4fb4-b1c0-507e1aacfd13",
+        "id": "8263",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Spatial without Compromise \u00b7 QGIS Web Site",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://qgis.org/",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13386648144382038",
+    "date_last_used": "0",
+    "date_modified": "13386648152020830",
+    "guid": "43e9b1f1-808d-4943-b07c-2e8c48da9706",
+    "id": "8262",
+    "name": "Mapping",
+    "source": "unknown",
     "type": "folder"
   },
   {
@@ -3940,11 +4436,98 @@
         "type": "url",
         "url": "https://github.com/browserbase/mcp-server-browserbase",
         "visit_count": 1
+      },
+      {
+        "date_added": "13388141064017576",
+        "date_last_used": "0",
+        "guid": "7b9ad633-c00e-4854-b232-c83821d4f9e8",
+        "id": "8350",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "gumloop.com/mcp?s=09",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.gumloop.com/mcp?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388142332405573",
+        "date_last_used": "0",
+        "guid": "81408653-0a1a-4b9e-9c2c-3f721471c71e",
+        "id": "8351",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "MCP Servers - Browse Model Context Protocols",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://mcpservers.com/?s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388399222952117",
+        "date_last_used": "0",
+        "guid": "992169f9-5215-4514-85ce-99a87ec5b07b",
+        "id": "8359",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "markitdown/packages/markitdown-mcp at main \u00b7 microsoft/markitdown",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://github.com/microsoft/markitdown/tree/main/packages/markitdown-mcp",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388600364096944",
+        "date_last_used": "0",
+        "guid": "5ce18e4f-01d2-4f39-ad4c-46ed6afa265e",
+        "id": "8358",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Build a Model Context Protocol (MCP) server in C# - .NET Blog",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://devblogs.microsoft.com/dotnet/build-a-model-context-protocol-mcp-server-in-csharp/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388614089700123",
+        "date_last_used": "0",
+        "guid": "a4e51264-97fe-4af6-9fa7-cca25f45b0d0",
+        "id": "8357",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Cloudflare on X: \"The Cloudflare Vite plugin integrates Vite, one of the most popular build tools for web development, with the Workers runtime. Today, we are announcing the 1.0 release and official support for React Router v7. https://t.co/HJJ5G6TOWg #DeveloperWeek\" / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/Cloudflare/status/1909614735865114870?t=d-AHO8m89WvYRnFV0f3AzA&s=09",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13389226709464255",
+        "date_last_used": "0",
+        "guid": "58ecad8a-d4ea-4bc6-b6ec-e4cf8f023bfd",
+        "id": "8401",
+        "name": "MiniMax (official) on X: \"MiniMax-MCP-Tools Are Now Live! Streamline your workflow with powerful multimodal tools: \ud83c\udf99\ufe0f Voice Cloning &amp; Text-to-Speech \ud83d\uddbc\ufe0f Image &amp; Video Generation Turn simple text prompts into audio, images, and videos\u2014no more app-hopping. Start creating today: https://t.co/pGFnp9buRE\" / X",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://x.com/MiniMax__AI/status/1910588354938503362?t=ftsa9XSqK_xYWr4-74CV7A&s=09",
+        "visit_count": 1
       }
     ],
     "date_added": "13385717683951232",
     "date_last_used": "0",
-    "date_modified": "13387831950004263",
+    "date_modified": "13389226709464255",
     "guid": "bf7d8507-2215-489c-a4e4-17eb2fc852dc",
     "id": "8222",
     "name": "MCP",
@@ -4560,11 +5143,53 @@
         "type": "url",
         "url": "https://kdenlive.org/en/",
         "visit_count": 1
+      },
+      {
+        "date_added": "13388599040296215",
+        "date_last_used": "0",
+        "guid": "ed8a65de-7c6d-4563-b214-07ca995cb316",
+        "id": "8356",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Rive \u2014 a new way to design, build, and ship user interfaces",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://rive.app/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13388744590025834",
+        "date_last_used": "0",
+        "guid": "86490651-c266-45fb-8204-a3d9c30e3b13",
+        "id": "8384",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Wispr Flow | Effortless Voice Dictation",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://wisprflow.ai/",
+        "visit_count": 1
+      },
+      {
+        "date_added": "13389045197065106",
+        "date_last_used": "0",
+        "guid": "d0b30c31-fde9-492c-9a47-eb67b82c3acf",
+        "id": "8397",
+        "name": "GeoSpy | Unlock the Power of AI Image intelligence",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://geospy.ai/?s=09#contact",
+        "visit_count": 1
       }
     ],
     "date_added": "13379932099728088",
     "date_last_used": "0",
-    "date_modified": "13387416533974136",
+    "date_modified": "13389045197065106",
     "guid": "b1dc0f51-b1fe-4908-b132-a1fb5c1ef7b1",
     "id": "8063",
     "name": "Misc",
@@ -4770,11 +5395,26 @@
         "type": "url",
         "url": "https://polar.sh/?s=09",
         "visit_count": 1
+      },
+      {
+        "date_added": "13388233503041046",
+        "date_last_used": "0",
+        "guid": "37ab8a2b-77ff-462a-b081-2620395a822c",
+        "id": "8364",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Payments, tax & subscriptions for software companies \u2022 Lemon Squeezy",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.lemonsqueezy.com/?s=09",
+        "visit_count": 1
       }
     ],
     "date_added": "13385679489321439",
     "date_last_used": "0",
-    "date_modified": "13385679497738972",
+    "date_modified": "13388233503041046",
     "guid": "e6d5bdec-244e-4d2a-bccb-90cdedb4579e",
     "id": "8217",
     "name": "Payments",
@@ -4941,6 +5581,30 @@
     "type": "folder"
   },
   {
+    "children": [
+      {
+        "date_added": "13389232488986060",
+        "date_last_used": "0",
+        "guid": "d6c2f3bb-4640-4472-bc93-a73cf4874e7a",
+        "id": "8403",
+        "name": "Imagen prompt guide \u00a0|\u00a0 Gemini API \u00a0|\u00a0 Google AI for Developers",
+        "show_icon": false,
+        "source": "user_copy",
+        "type": "url",
+        "url": "https://ai.google.dev/gemini-api/docs/imagen-prompt-guide",
+        "visit_count": 0
+      }
+    ],
+    "date_added": "13389232460991429",
+    "date_last_used": "0",
+    "date_modified": "13389232488986060",
+    "guid": "5a6d2351-59a6-4285-93f4-56ac4ae204be",
+    "id": "8402",
+    "name": "Prompting",
+    "source": "extension",
+    "type": "folder"
+  },
+  {
     "children": [],
     "date_added": "13378963529907883",
     "date_last_used": "0",
@@ -5015,6 +5679,33 @@
     "id": "8068",
     "name": "Tools",
     "source": "extension",
+    "type": "folder"
+  },
+  {
+    "children": [
+      {
+        "date_added": "13386752106015510",
+        "date_last_used": "0",
+        "guid": "dd93ef34-d423-4623-a4c8-db39845162be",
+        "id": "8268",
+        "meta_info": {
+          "power_bookmark_meta": ""
+        },
+        "name": "Tune Gemini models by using supervised fine-tuning \u00a0|\u00a0 Generative AI \u00a0|\u00a0 Google Cloud",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini-use-supervised-tuning?s=09",
+        "visit_count": 1
+      }
+    ],
+    "date_added": "13386752098508560",
+    "date_last_used": "0",
+    "date_modified": "13386752106015510",
+    "guid": "e56ec04e-cb0e-4a4c-9568-1f74ced05cb6",
+    "id": "8267",
+    "name": "Training",
+    "source": "unknown",
     "type": "folder"
   },
   {
@@ -5579,11 +6270,23 @@
         "type": "url",
         "url": "https://higgsfield.ai/",
         "visit_count": 1
+      },
+      {
+        "date_added": "13389065029167611",
+        "date_last_used": "0",
+        "guid": "11a404bd-309e-4631-8ed4-0a553b629a70",
+        "id": "8398",
+        "name": "OmniHuman-1: AI Video Generation by Bytedance",
+        "show_icon": false,
+        "source": "sync",
+        "type": "url",
+        "url": "https://www.omnihuman1.org/",
+        "visit_count": 1
       }
     ],
     "date_added": "13378963381811640",
     "date_last_used": "0",
-    "date_modified": "13387925393786427",
+    "date_modified": "13389065029167611",
     "guid": "ad60e53a-7d18-48f5-9406-5c3b35522699",
     "id": "8002",
     "name": "Video Generation",
@@ -5659,129 +6362,6 @@
     "guid": "6eeea246-ec3e-4f16-87f3-913d3d41ad7d",
     "id": "8202",
     "name": "Videos",
-    "source": "unknown",
-    "type": "folder"
-  },
-  {
-    "children": [
-      {
-        "date_added": "13386499643593359",
-        "date_last_used": "0",
-        "guid": "9653bb72-d22e-4d95-80f1-7bedb74fcce3",
-        "id": "8266",
-        "meta_info": {
-          "power_bookmark_meta": ""
-        },
-        "name": "Neon Serverless Postgres \u2014 Ship faster",
-        "show_icon": false,
-        "source": "sync",
-        "type": "url",
-        "url": "https://neon.tech/",
-        "visit_count": 1
-      },
-      {
-        "date_added": "13386499818994973",
-        "date_last_used": "0",
-        "guid": "fa2ff984-db5b-47c9-be8e-e47bb5a5f0dc",
-        "id": "8265",
-        "meta_info": {
-          "power_bookmark_meta": ""
-        },
-        "name": "Supabase | The Open Source Firebase Alternative",
-        "show_icon": false,
-        "source": "sync",
-        "type": "url",
-        "url": "https://supabase.com/",
-        "visit_count": 1
-      }
-    ],
-    "date_added": "13386499634593687",
-    "date_last_used": "0",
-    "date_modified": "13386499818994973",
-    "guid": "8ca02409-9284-4d54-82b6-4e5b2dd880ae",
-    "id": "8264",
-    "name": "Database",
-    "source": "unknown",
-    "type": "folder"
-  },
-  {
-    "children": [
-      {
-        "date_added": "13386648152020830",
-        "date_last_used": "0",
-        "guid": "ee7a628e-4fea-4fb4-b1c0-507e1aacfd13",
-        "id": "8263",
-        "meta_info": {
-          "power_bookmark_meta": ""
-        },
-        "name": "Spatial without Compromise \u00b7 QGIS Web Site",
-        "show_icon": false,
-        "source": "sync",
-        "type": "url",
-        "url": "https://qgis.org/",
-        "visit_count": 1
-      }
-    ],
-    "date_added": "13386648144382038",
-    "date_last_used": "0",
-    "date_modified": "13386648152020830",
-    "guid": "43e9b1f1-808d-4943-b07c-2e8c48da9706",
-    "id": "8262",
-    "name": "Mapping",
-    "source": "unknown",
-    "type": "folder"
-  },
-  {
-    "children": [
-      {
-        "date_added": "13386752106015510",
-        "date_last_used": "0",
-        "guid": "dd93ef34-d423-4623-a4c8-db39845162be",
-        "id": "8268",
-        "meta_info": {
-          "power_bookmark_meta": ""
-        },
-        "name": "Tune Gemini models by using supervised fine-tuning \u00a0|\u00a0 Generative AI \u00a0|\u00a0 Google Cloud",
-        "show_icon": false,
-        "source": "sync",
-        "type": "url",
-        "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini-use-supervised-tuning?s=09",
-        "visit_count": 1
-      }
-    ],
-    "date_added": "13386752098508560",
-    "date_last_used": "0",
-    "date_modified": "13386752106015510",
-    "guid": "e56ec04e-cb0e-4a4c-9568-1f74ced05cb6",
-    "id": "8267",
-    "name": "Training",
-    "source": "unknown",
-    "type": "folder"
-  },
-  {
-    "children": [
-      {
-        "date_added": "13387782705553853",
-        "date_last_used": "0",
-        "guid": "301a8a96-329b-46f8-8097-6c52a17ee16f",
-        "id": "8333",
-        "meta_info": {
-          "power_bookmark_meta": ""
-        },
-        "name": "List of the 40 Best AI Image Generators & Drawings | 2025 | Aixploria",
-        "show_icon": false,
-        "source": "sync",
-        "type": "url",
-        "url": "https://www.aixploria.com/en/category/image-ai-en/",
-        "visit_count": 1
-      }
-    ],
-    "date_added": "13387782697448802",
-    "date_last_used": "0",
-    "date_modified": "13387782705553853",
-    "guid": "3a790fbb-af90-4011-9d4d-550f7b278a68",
-    "id": "8332",
-    "name": "Lists",
     "source": "unknown",
     "type": "folder"
   }

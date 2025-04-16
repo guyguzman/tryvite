@@ -1,6 +1,49 @@
 async function loadBookmarks() {
   const response = await fetch("ai_bookmarks.json");
   const bookmarks = await response.json();
+  // console.dir(bookmarks);
+  returnChildren(bookmarks);
+  return bookmarks;
+}
+
+function returnChildren(bookmarks) {
+  let urlCount = 0;
+  let folderCount = 0;
+  let keyWords = [];
+  bookmarks.forEach((folder) => {
+    folderCount++;
+    console.log(folder.name);
+    let folderObject = {
+      name: folder.name,
+      type: folder.type,
+      guid: folder.guid,
+      url: folder.url,
+      keywords: [],
+    };
+    keyWords.push(folderObject);
+    if (folder.type === "folder" && folder.children) {
+      folder.children = folder.children.map((child) => {
+        let childObject = {
+          name: child.name,
+          type: child.type,
+          guid: child.guid,
+          url: child.url,
+          keywords: [],
+        };
+        keyWords.push(childObject);
+        // console.log(childObject);
+        if (child.type === "folder") {
+          folderCount++;
+          returnChildren([child]);
+        } else if (child.type === "url") {
+          urlCount++;
+          return child;
+        }
+      });
+    }
+  });
+  console.log(keyWords);
+  console.log(typeof keyWords);
   return bookmarks;
 }
 
@@ -81,4 +124,4 @@ async function bookmarksInit() {
   urlsSection.appendChild(urlsGrid);
 }
 
-await bookmarksInit();
+bookmarksInit();
